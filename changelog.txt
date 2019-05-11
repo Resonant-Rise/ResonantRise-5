@@ -1,0 +1,1092 @@
+=================
+Build a.0.4.8
+=================
+
+==Forge==
+    n/a
+
+==Core==
+    BDLibs (1.12.02)
+    Better Achievments (0.3.0.26)
+    Biomes o' Plenty (4.1.0.2031)
+    BloodMagic (2.0.2-45)
+    Bookshelf (1.2.3.278)
+    Chisel 'n' Bits (10.8)
+    Cooking for Blockheads (3.1.26)
+    Deep Resonance (1.2.0beta35)
+    Ender IO (3.0.0.45_alpha)
+    Ender Tanks (1.3.6)
+    Forestry (5.0.23.170)
+    Furnus (1.82)
+    Generators (0.9.20.2)
+    Industrial Craft 2 (2.5.49-EX19)
+    Iron Chest (6.0.146.788)
+    JustENoughResources (0.4.6.39)
+    Levels (0.10.2)
+    MultiStorage (1.1.3)
+    Not Enough Wands (1.3.5)
+    Platforms (1.1.4)
+    Pressure (1.3.1.2)
+    Quark (Beta-29)
+    Reliquary (1.3.2.390)
+    RFTools (4.65)
+    RFTools DIM (4.30Beta43)
+    Rougelike Dungeons (1.5.3)
+    Storage Drawers (3.1.7)
+    The One Probe (1.0.11)
+    Tinkers' Construct (2.3.3)
+    TIS-3D (0.9.0.6)
+    Totemic (0.7.6)
+
+==Optionals==
+    Veinminer (0.33.1-1.9R554DA0F6CB)
+
+--Client Only--    
+    Custom Main Menu (2.0)
+    Item Scroller (Client) (0.5.1)
+
+--Server Only--
+    n/a
+
+==Removed==
+    n/a
+
+==Configs==
+    n/a
+
+==Misc.==
+    n/a
+
+-- Dev only --
+    World Edit
+
+
+=================
+Build a.0.4.7
+=================
+
+==Forge==
+    n/a
+
+==Core==
+    Ender Compass (1.2.3.1)
+    Multibeds (1.1.4)
+    Terraqueous (1.1.4)
+
+==Optionals==
+    n/a
+
+--Client Only--
+    n/a
+
+--Server Only--
+    n/a
+
+==Removed==
+    n/a
+
+==Configs==
+    Veinminer - Updated for mod inclusions, as well as included Lanse505's work from the Master Branch.
+
+==Misc.==
+    n/a
+
+-- Dev only --
+    n/a
+
+
+=================
+Build a.0.4.6
+=================
+
+==Forge==
+    n/a
+
+==Core==
+    Forestry (5.0.20.167)
+    RFTools (4.64)
+    Quark (Beta-28)
+
+==Optionals==
+    n/a
+
+--Client Only--
+    n/a
+
+--Server Only--
+    n/a
+
+==Removed==
+    n/a
+
+==Configs==
+    n/a    
+
+==Misc.==
+    n/a
+
+-- Dev only --
+    n/a
+
+
+=================
+Build a.0.4.5
+=================
+
+==Forge==
+n/a
+
+==Core==
+    Actually Additions (R45)
+    Biomes o' Plenty (4.1.0.2029)
+    Blood Magic (2.0.1-44)
+    Bookshelf (1.2.1.276)
+    Botania (Unofficial-R1.8-310)
+    Chisels 'n' Bits (10.7)
+    Deep Resonance (1.2.0Beta34)
+    Enchiridion (3.1.5)
+    Ender IO (3.0.0.43)
+    Ender Core (0.4.0.26)
+    Forestry (5.0.19.166)
+    Furnus (1.81)
+    Just Enough Items (3.6.7.216)
+    Just Enough Resources (0.4.6.38)
+    Levels (R3.0.3)
+    Mantle (0.10.2)
+    McJtyLib (1.9.1)
+    Morph-O-Tool (1.0-3)
+    Pam's Harvestcraft (1.9.4B)
+    Psi (R1.0-35)
+    Quark (Beta-25)
+    Refined Storage (0.7.16)
+    RFTools (4.63)
+    Roots (0.005)
+    Shadow MC (3.3.9)
+    Signals (0.1.2)
+    The One Probe (1.0.10)
+    Tinkers Construct (2.3.2)
+    Totemic (0.7.5)
+
+
+==Optionals==
+    Morpheus (3.1.5)
+    VeinMiner (0.33.0-1.9R55301919CC)
+
+--Client Only--
+    Inventory Tweaks (1.61-Beta)
+    More Overlays (1.4)
+
+--Server Only--
+n/a
+
+==Removed==
+TechReborn, this may be temporary as many of the machines do not work, cannot be made, or have no purpose.
+
+==Configs==
+n/a    
+
+==Misc.==
+XML Changes - Colors added to Headers, Header descriptions corrected, various grammer and spell checks throughout the document.
+
+-- Dev only --
+n/a
+
+
+=================
+Build a.0.4.4
+=================
+
+==Forge==
+n/a
+
+==Core==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+Charset - Removal due to developer releasing mod.
+
+==Configs==
+n/a    
+
+==Misc.==
+BlockDrops - moved to optionals due to client <-> server connection error.
+
+-- Dev only --
+n/a
+
+
+=================
+Build a.0.4.3
+=================
+
+==Forge==
+n/a
+
+==Core==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a    
+
+==Misc.==
+XML clean up to allow ATL compatability.
+Resource Loader - removed from Server side, made optional, but linked to Custom Main Menu.
+Inventory Tweaks - added to Server side optionals.
+
+-- Dev only --
+n/a
+
+
+=================
+Build a.0.4.2
+=================
+
+==Forge==
+n/a
+
+==Core==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+Enchiridion:
+    Added - TiCo and Roots    
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+
+=================
+Build a.0.4.1
+=================
+
+==Forge==
+n/a
+
+==Core==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+Added baseline configs, incomplete.
+
+==Misc.==
+Added files for Custom Main Menu.
+
+-- Dev only --
+n/a
+
+=================
+Build a.0.4.0 - Re-Built xml for 1.9.4
+=================
+
+==Forge==
+Forge 1.9.4-12.17.0.1963
+
+==Core==
+Actually Additions
+Apple Core
+Auto Ore Dictionary Converter
+Baubles
+Better Bedrock Gen
+BDLib
+    Advanced Generators
+    Pressure Pipes
+Better Achievments
+Biomes o' Plenty
+Blood Magic: Alchemical Wizardry
+Bookshelf
+Charset
+Chisels & Bits
+Clay World Gen
+Compact Storage
+Cooking for Blockheads
+Crating Tweaks
+Craft Tweaker
+Custom Things
+CXLibrary
+Cyclops Core
+Dark Utilities
+Deep Resonance
+ElecCore
+Enchiridion
+Ender Core
+    Ender IO
+    Ender Zoo
+Ender Tanks
+Extra Utilities 2
+Fancy Fluid Storage
+Fast Leaf Decay
+Fluxed Redstone
+Forestry
+Furnus
+Gear Swapper
+Harvest
+Help Fixer
+Industrial Craft 2
+Integrated Dynamics
+Iron Chest
+Just Enough Items
+    Block Drops
+    Just Enpugh Resources
+Lunatrius Core
+Mantle
+    Tinkers Construct
+McJtyLib
+MCMultiPart
+MmmMmmMmmMmm
+Morph-O-Tool
+Mod Pack Utilities Core
+    Mod Pack Basic Tools
+Multi-Storage
+Nether Portal Fix
+No More Recipe Conflicts
+Not ENough Codecs
+Not Enough Wands
+Open Computers
+Ore Tweaker
+Packing Tape
+Pam's HarvestCraft
+Platforms
+Pong
+Progressive Automation
+Psi
+Quantum Flux
+Quark
+Random Utilities
+Random Things
+Reborn Core
+Refined Storage
+Reliquary
+RFTools
+    RFTools Dimensions
+Rougelike Dungeons
+Roots
+Realistic Terrain Generation
+SensorCraft
+ShadowMC
+Shetiphian Core
+Signals
+Simply Conveyers
+Sleeping Bags
+Stackie
+Storage Drawers
+Substratum
+TESLA
+The One Probe
+Thut Core
+    Thut Tech
+TIS-3D
+Totemic
+Trash Slot
+WAILA
+    WAILA-Features
+    Waila Harvest
+    WAWLA
+WOOT
+xLib
+    Levels
+
+==Optionals==
+FTB Lib
+FTB Utilities
+Morpheus
+Potion Icons Remover
+Vein Miner
+
+--Client Only--
+Ambient Sounds
+Baubles HUD
+Better Minecraft Chat
+Chunk Animator
+Custom Main Menu
+Inventory Tweaks
+Item Physics Lite
+Item Scroller
+Journey Map
+Map Writer
+Mine Menu
+More Overlays
+Mouse Tweaks
+Neat
+True Type Font Replacement
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
+Build a.0.3.0
+=================
+
+==Dependancies (Core)==
+Added EnderCore
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+Added Enderio
+Added Extra Utilities 2
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
+Build a.0.2.1
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+Disabled Reliquary
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
+Build a.0.2.0
+=================
+
+==Dependancies (Core)==
+Added ElecCore
+Added MalisisCore
+Updated McJtylib
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+Added Alchemycraft
+Added CCTweaks
+Added Deep Rsonance
+Added Dense Ores
+Added GraveStone
+Added Malisis Doors
+Added ModTweaker
+Added Rope Bridges
+Added RTG
+Added Simple Chunk Loader
+Added Soul Shards: The Old Way
+Added Veinminer
+Updated Bookshelf API
+Updated Charset
+Updated CrissCross
+Updated JEI
+Updated JourneyMap
+Updated RandomThings
+Updated Simple Dimension
+Updated Storage Drawers
+Updated Thaumcraft
+Updated Thaumic Infusion
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
+Build a.0.1.14
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+Added GeoActivity
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
+Build 013
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+Ender-Rift, Geoactivity, and Fluxed Redstone
+
+==Configs==
+n/a
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
+Build 012 (11 merged)
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+Updated k4lib-1.8.9-1.0.16-universal
+Updated MCMultiPart-1.0.7-universal
+Updated Morpheus-1.8.9-2.0.58
+Updated notenoughwands-1.8.9-1.2.8
+Updated OpenComputers-MC1.8.9-1.5.22.6
+Updated OreDictionaryConverter-1.7.2
+Updated PowerAdvantage-1.5.1
+Updated pressure-1.3.0.16-mc1.8.9
+Updated Psi-beta-14
+Updated RebornCore-1.8.9-1.4.3.20-universal
+Updated Reliquary-1.3-beta.150
+Updated rftools-1.8.9-4.22beta22
+Updated rftoolsdim-1.8.9-4.22beta22
+Updated ShadowMC-1.8.9-3.0.0-SNAPSHOT
+Updated SilentsGems-1.8.9-1.3.10-104
+Updated simplefluidtanks-1.8.9-1.3.0.4
+Updated simpleretrogen-1.8.9-2.2.1+2
+Updated sodacanutils-2.0.4
+Updated SteamAdvantage-1.5.2
+Updated StorageNetwork-1.8.9-1.7.2
+Updated thuttech-2.3.0
+Updated BaseMetals-1.7.3
+Updated bdlib-1.10.0.23-mc1.8.9
+Updated BiomesOPlenty-1.8.9-3.0.0.1922-universal
+Updated BloodMagic-1.8.9-2.0.0-18
+Updated chiselsandbits-mc1.8.9-v1.8.11
+Updated ElectricAdvantage-1.1.1
+Updated EnderRift-0.9.2
+Updated flatcoloredblocks-mc1.8.9-v1.7
+Added forgeslack-1.8.9-0.1
+Updated Foundry-1.8.9-1.4.0.0
+Added generators-0.9.19.3-mc1.8.9
+Added geoactivity-2.2.2
+Updated Ice-1.1.4
+Updated intangible-1.8.9-0.0.23
+Updated InventoryTweaks-1.60-beta-33
+Added JAPTA-1.2.0
+Updated jei_1.8.9-2.28.1.162
+Updated JustEnoughResources-1.8.9-0.3.4
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
+Build 010
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+Updated all Buildcraft components (see github)
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
+Build 009
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+Added ArchitectureCraft
+Updated Bookshelf
+Updated JEI
+Updated JEIAddons
+Updated MoarSigns
+Updated NeoTech
+Updated ProgressiveAutomation
+Updated StorageDrawers
+Updated ThutCore
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
+Build 008
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+Updated EzStorage
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
+Build 007
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+Removed Graves
+Added ICE
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
+Build 006
+=================
+
+==Dependancies (Core)==
+Bookself updated to 2.3.1
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+Added Caterpillar 1.2.189b76
+Updated EnderZoo to 1.1.3.35
+Updated JEI to 2.26.0.154
+Updated VeinMiner to 0.31.3
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
+Build 005
+=================
+
+==Dependancies (Core)==
+Added CrashLogReporter
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+Added CrashLogReporter
+Updated CustomMainMenu
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
+Build 004
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+FTBLit - 2.0.2
+FTBUtils - 2.0.2
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+moved building bricks to dev only
+
+-- Dev only --
+n/a
+
+=================
+Build 003
+=================
+
+==Dependancies (Core)==
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+EvilCraft Enchant ID Fix
+
+==Misc.==
+Added resource files for Custom Main Menu
+Added Resource Loader
+Added Custom Main Menu
+
+-- Dev only --
+n/a
+
+=================
+Build 002
+=================
+
+==Dependancies (Core)==
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+Journey Map, Chunk Animator, Lauch GUI (not optional)
+
+--Server Only--
+n/a
+
+==Removed==
+Inventory Sorter - Inventory Tweaks is working now.
+
+==Configs==
+n/a
+
+==Misc.==
+Client side is working attempting to fix server side now.
+
+-- Dev only --
+n/a
+
+=================
+Build 001
+=================
+
+==Dependancies (Core)==
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+modified Evilcraft Enchantments to 124-127
+
+==Misc.==
+n/a
+
+-- Dev only --
+First commit for V4

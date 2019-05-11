@@ -1,9 +1,11 @@
-# Resonant Rise 5
+[![Stories in Ready](https://badge.waffle.io/Resonant-Rise/ResonantRiseV4.png?label=ready&title=Ready)](https://waffle.io/Resonant-Rise/ResonantRiseV4)
+# ResonantRiseV4
+<<<<<<< HEAD
+**Resonant Rise V4 - MC1.10.2**
+=======
+**Resonant Rise V4 - MC1.10.2
+>>>>>>> origin/1.12.2
 
-[![Discord](https://img.shields.io/discord/110872283223961600.svg?style=for-the-badge&logo=discord)](https://discord.resonantri.se)
-[![](https://img.shields.io/github/contributors/Resonant-Rise/ResonantRiseV5.svg?style=for-the-badge&logo=github)](https://github.com/Resonant-Rise/ResonantRiseV5/graphs/contributors)
-[![](https://img.shields.io/github/issues/Resonant-Rise/ResonantRiseV5.svg?style=for-the-badge&logo=github)](https://github.com/Resonant-Rise/ResonantRiseV5/issues)
-[![](https://img.shields.io/github/issues-pr/Resonant-Rise/ResonantRiseV5.svg?style=for-the-badge&logo=github)](https://github.com/Resonant-Rise/ResonantRiseV5/pulls)
-[![](https://img.shields.io/github/forks/Resonant-Rise/ResonantRiseV5.svg?style=for-the-badge&logo=github)](https://github.com/Resonant-Rise/ResonantRiseV5/network/members)
-[![](https://img.shields.io/github/stars/Resonant-Rise/ResonantRiseV5.svg?style=for-the-badge&logo=github)](https://github.com/Resonant-Rise/ResonantRiseV5/stargazers)
-[![](https://img.shields.io/github/license/Resonant-Rise/ResonantRiseV5.svg?logo=github&style=for-the-badge)](https://github.com/Resonant-Rise/ResonantRiseV5/blob/master/LICENSE)
+Main repo for XML and configs for ATLauncher
+
+Test Commit
