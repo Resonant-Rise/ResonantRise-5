@@ -282,9 +282,9 @@
              version="2.6.8" url="packs/ResonantRise/files/5.x/BuildingGadgets-2.6.8.jar" file="BuildingGadgets-2.6.8.jar" md5="e1d1813966f576d0330eee8df1972a27" download="server"
              type="mods" website="https://minecraft.curseforge.com/projects/building-gadgets" authors="Direwolf20" description="Adds some gadgets to help you build!" />
 
-        <mod name="Carry On"
+        <!-- <mod name="Carry On"
              version="1.12.1" url="packs/ResonantRise/files/5.x/CarryOnMC1.12.2v1.12.1.jar" file="CarryOnMC1.12.2v1.12.1.jar" md5="34847a2045ef1b3faf7a0357794ef056" download="server"
-             type="mods" website="http://www.curseforge.com/projects/carry-on/" authors="Tschipp, Purplicious_Cow, cy4n" description="Carry On is a simple mod that improves game interaction by allowing players to pick up, carry, and place single block Tile Entities using only their empty hands." />
+             type="mods" website="http://www.curseforge.com/projects/carry-on/" authors="Tschipp, Purplicious_Cow, cy4n" description="Carry On is a simple mod that improves game interaction by allowing players to pick up, carry, and place single block Tile Entities using only their empty hands." /> -->
 
         <mod name="Chameleon"
              version="4.1.3" url="packs/ResonantRise/files/5.x/Chameleon-1.12-4.1.3.jar" file="Chameleon-1.12-4.1.3.jar" md5="e42efa8f4fd42d2918128a826b740e98" download="server"
@@ -907,118 +907,175 @@
         <!--
             Core List:
         Actually Additions
-        Apple Skin
-        AE2
-        AE2 Stuff
-        Astral Sorcery
-        Auto Reg Lib
-        B.A.S.E.
-        Baubles
-        bdlib
-        bedpatch
-        betterfps
-        bibliocraft
-        Biomes O' Plenty
-        Bookshelf
-        Botania
-        Brandons Core
-        Carry On
-        Chameleon
-        Chisel
-        Chisel and Bits
-        Classy Hats
-        Code Chicken lib
-        CoFH Core
-        CoFH World
-        Comforts
-        Content Tweaker
-        Cooking for Blockheads
-        Craft Tweaker
-        CTM
-        Dank Null
-        Dark Utilities
-        Decocraft
-        Draconic Evolution
-        Dynamic Dynamos
-        Ender Storage
-        Environmental Tech
-        ET Lunar
-        Exchangers
-        Extra Utilities
-        Extreme Reactors
-        Forestry
-        Forgelin
-        FTBLib
-        FTBUtilities
-        Gendustry
-        (Advanced) Generators
-        Gotta Go Fast
-        IchunUtil
-        Immersive Engineering
-        Immersive Petroleum
-        Immersive Tech
-        Industrial Foregoing
-        Inventory Tweaks
-        Iron Backpakcs
-        JEI
-        Journeymap
-        Just Enough Resources
-        Librarian Lib
-        Lost Cities
-        Lost Quiver
-        Lost Souls
-        Magical Psi
-        Mantle
-        Mcjtylib
-        MCMultipart
-        Mekanism
-        Mekanism Generators
-        Mekanism Tools
-        MineMenu
-        Mod Name Tooltip
-        Mod Tweaker
-        More Bees
-        Morph
-        Morpheus
-        Mouse Tweaks
-        MPUtils Basic Tools
-        MPUtils
-        MTLib
-        Natura
-        Not Enough Wands
-        Ore Excavation
-        p455w0rdslib
-        Pam's Harvestcraft
-        Psi
-        Quantum Storage
-        Quark
-        Random Things
-        Reborn Core
-        Redstone Arsenal
-        Redstone Flux
-        Restrictions
-        Rftools
-        Rftools Control
-        Rftools Dimension
-        Simply Jetpacks 2
-        Steve's Carts Reborn
-        Storage Drawers
-        (Tconstruct) Tinker's Construct
-        Tech Reborn
-        Tesla Core Lib
-        The One Probe
-        Thermal Cultivation
-        Thermal Dynamics
-        Thermal Expansion
-        Thermal Foundation
-        Tinker Tool Leveling
-        Tomb Many Graves
-        Torch Master
-        Twilight Forest
-        Valkyrielib
-        Xnet
-        Ynot
-        Zerocore
+AE2 Stuff
+AE2 Wireless Terminals
+Albedo
+Anvil Fix
+AppleSkin
+Artifacts
+Akashic Tome
+Applied Energistics 2
+Astral Sorcery
+AutoRegLib
+B.A.S.E.
+Baubles
+BD Lib
+Bed Patch
+Bibliocraft
+Binnie’s Mods
+BlockCraftery
+Blood Magic Alchemical Wizardry
+Bonsai Trees
+Bookshelf
+Botania
+Brandon’s Core
+Buildcraft
+Building Gadgets
+Chameleon
+Chicken Chunks
+Chisel
+Chisel & Bits
+Classy Hats
+Clumps
+CodeChicken Lib
+CoFH Core
+CoFH World
+Contruct’s Armory
+Comforts
+Common Capabilities
+Cooking for Blockheads
+Cosmetic Armor Reworked
+CraftTweaker 2
+CTM
+Cucumber Library
+Cyclops Core
+/dank/null
+Dark Utilities
+Deep Resonance
+Discord Suite
+Draconic Evolution
+Dynamic Dynamos
+Effortless Building
+ElecCore
+EnderCore
+EnderIO
+EnderIO Endergy
+EnderIO Zoo
+EnderStorage
+EnderTweaker
+Environmental Tech
+ET Lunar
+Exchangers
+Extra Cells 2
+Extra Utilities 2
+Extreme Reactors
+Shadowfacts Forgelin
+Fast Furnace
+Fast Workbench
+Flux Networks
+Foamfix
+Forge Multipart CBE
+Forestry
+FTBLib
+FTBUtilities
+Gendustry
+Advanced Generators
+Gotta Go Fast
+Guide-API
+IchunUtil
+Immersive Engineering
+Immersive Petroleum
+Immersive Tech
+Industrial Foregoing
+Inventory Tweaks
+Iron Backpacks
+JEI Bees
+Just Enough Energistics
+Just Enough Items
+Just Enough Resources
+Keyboard Wizard
+LibrarianLib
+The Lost Quiver
+Magical Psi
+Mantle
+Mcjtylib
+MCMultiPart
+Mekanica
+Mekanica Generators
+MineMenu
+Mob_grinding_utils
+Mod Name Tooltip
+Mod Tweaker
+More Bees
+Morph
+Morph-o-tool
+Mouse Tweaks
+Modpack Basic Tools
+MPUtils
+MTLib
+Multi Mob Core
+Mystical Agradditions
+Mystical Agriculture
+Mystical Lib
+Natura
+Neat
+NotEnoughID’s
+OpenBlocks
+OpenComputers
+OpenComputers Xnet Driver
+OpenModsLib
+OreExcavation
+P455w0rd;s Library
+Pams Harvestcraft
+Phosphor Lighting Engine
+Placebo
+Primitive Mobs
+Psi
+Quantum Storage
+Quark
+Quark Oddities
+Random Things
+Reborn Core
+Redstone Arsenal
+Redstone Flux
+Restrictions
+RFTools
+RFTools Control
+RFTools Dimensions
+RFTools Power
+Scannable
+Simply Jetpacks 2
+SonarCore
+Steve’s Carts 2
+Storage Drawers
+Tinker’s Construct
+Tech Reborn
+Tesla Core Lib
+TexFix
+The One Probe
+Thermal Cultivation
+Thermal Dynamics
+Thermal Expansion
+Thermal Foundation
+Thermal Innovation
+Tinker’s Addons
+Tinker’s Compliment
+Tinker I/O
+Tinkers Tool Leveling
+Tiny Progressions
+Tomb Many Graves
+Too Many Efficiency Losses
+TorchMaster
+Translocators
+The Twilight Forest
+ValkyrieLib
+Wireless Crafting Terminal 2
+Woot
+Wireless Redstone-CBE
+Xaero’s Minimap
+XNet
+YNot
+Zero Core
         -->
         
 <!-- End Core Mods -->
