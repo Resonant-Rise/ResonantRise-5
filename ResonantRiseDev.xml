@@ -338,6 +338,10 @@
              version="6.4.70" url="packs/ResonantRise/files/5.x/CookingForBlockheads_1.12.2-6.4.70.jar" file="CookingForBlockheads_1.12.2-6.4.70.jar" md5="942d63804263b04516eb49ddba125e59" download="server"
              type="mods" website="http://www.curseforge.com/projects/cooking-for-blockheads/" authors="BlayTheNinth" description="Adds a cooking book and multiblock kitchens that only shows recipes you can make with what you currently have in your inventory." />
 
+        <mod name="Compacter" 
+            version="1.3.0.3" url="packs/ResonantRise/files/5.x/compacter-1.3.0.3-mc1.12.2.jar" file="compacter-1.3.0.3-mc1.12.2.jar" md5="b4abff5976314348518efa243e7c5cdd" download="server" 
+            type="mods" website="bdew.net/mods/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/compacter?gameCategorySlug=mc-mods&amp;projectID=231549&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/compacter?gameCategorySlug=mc-mods&amp;projectID=231549&amp;lc=US&amp;item_name=Compacter+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="bdew" description="Rapidly compacts items that can be crafted in 2x2 or 3x3 pattern" />
+        
         <mod name="Cosmetic Armor Reworked"
              version="1.12.2-v4a" url="packs/ResonantRise/files/5.x/CosmeticArmorReworked-1.12.2-v4a.jar" file="CosmeticArmorReworked-1.12.2-v4a.jar" md5="354e19dfed4d68bc6abff1072147962e" download="server"
              type="mods" website="http://www.curseforge.com/projects/cosmetic-armor-reworked/" authors="ZLainSama" description="This mod allows you to wear two sets of armor, one for display, one for function." />
