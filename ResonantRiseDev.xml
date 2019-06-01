@@ -197,6 +197,8 @@
              version="0.1.3" url="packs/ResonantRise/files/5.x/albedo-0.1.3.jar" file="albedo-0.1.3.jar" md5="7877aa9909cf14c0aaba0332f9a8270b" download="server"
              type="mods" website="http://www.curseforge.com/projects/albedo/" authors="Elucent" description="Effects and lighting library." />
 
+        <mod name="Albedo Torches" version="1.1.2" url="packs/ResonantRise/files/5.x/AlbedoTorches-1.1.2.jar" file="AlbedoTorches-1.1.2.jar" md5="db5523deaa079433e28013d1400adbe7" download="server" type="mods" />
+
         <mod name="Anvil Fix"
              version="1.0.3" url="packs/ResonantRise/files/5.x/AnvilFix-1.12.2-1.0.3.jar" file="AnvilFix-1.12.2-1.0.3.jar" md5="82701cd69cad69378961f691d2b7d572" download="server"
              type="mods" website="http://www.curseforge.com/projects/anvil-fix/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/anvil-fix?gameCategorySlug=mc-mods&amp;projectID=305480&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=j-schirra%40gmx.de&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/anvil-fix?gameCategorySlug=mc-mods&amp;projectID=305480&amp;lc=US&amp;item_name=Anvil+Fix+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="UpcraftLP" description="AnvilFix: Vanilla Anvils - but better! It removes the level limit for combining Items" />
@@ -624,6 +626,8 @@
              version="1.10.0" url="packs/ResonantRise/files/5.x/modnametooltip_1.12.2-1.10.0.jar" file="modnametooltip_1.12.2-1.10.0.jar" md5="6dda75b858fc93e2d18ccd42585aec03" download="server"
              type="mods" website="https://github.com/mezz/ModNameTooltip" authors="mezz" description="Shows the mod an ItemStack is from on its tooltip." />
 
+        <mod name="MachineMuse&apos;s Modular Powersuits" version="1.12.2-1.0.41" url="packs/ResonantRise/files/5.x/ModularPowersuits-1.12.2-1.0.41.jar" file="ModularPowersuits-1.12.2-1.0.41.jar" md5="0793e3dcfa3e6844f8f17fc980671733" download="server" type="mods" />
+
         <mod name="Mod Tweaker"
              version="4.0.17" url="packs/ResonantRise/files/5.x/modtweaker-4.0.17.jar" file="modtweaker-4.0.17.jar" md5="e1737d87f3506f7913dea5462395cbda" download="server"
              type="mods" website="https://minecraft.curseforge.com/projects/ModTweaker" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/modtweaker?gameCategorySlug=mc-mods&amp;projectID=220954&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/modtweaker?gameCategorySlug=mc-mods&amp;projectID=220954&amp;lc=US&amp;item_name=ModTweaker+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Jaredlll08" description="ModTweaker is an addon for CraftTweaker, a recipe manipulator utility for Minecraft. It allows you to modify the recipes of other mods that add their own crafting mechanics" />
@@ -680,6 +684,8 @@
              version="1.4-17" url="packs/ResonantRise/files/5.x/Neat1.4-17.jar" file="Neat1.4-17.jar" md5="c371deab2490ecd6a2689eed09302d23" download="server"
              type="mods" website="http://www.vazkii.us" authors="Vazkii" description="Minimalistic Functional Unit Plates for the modern Minecrafter" />
 
+        <mod name="Numina" version="1.12.2-1.0.38" url="packs/ResonantRise/files/5.x/Numina-1.12.2-1.0.38.jar" file="Numina-1.12.2-1.0.38.jar" md5="741889c9857acd66c7d1de0572eb17c4" download="server" type="mods" />
+
         <!-- <mod name="NotEnoughIDs"
              version="1.5.4.4" url="packs/ResonantRise/files/5.x/NotEnoughIDs-1.5.4.4.jar" file="NotEnoughIDs-1.5.4.4.jar" md5="759494e409ce5d2ac277fc350e89500a" download="server"
              type="mods" website="http://www.curseforge.com/projects/notenoughids/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/notenoughids?gameCategorySlug=mc-mods&amp;projectID=235107&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=hazeevaidar%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/notenoughids?gameCategorySlug=mc-mods&amp;projectID=235107&amp;lc=US&amp;item_name=NotEnoughIDs+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="fewizz,Player" description="Extends hardcoded block ID limit." /> -->
@@ -723,6 +729,20 @@
         <mod name="Primitive Mobs"
              version="1.2.3a" url="packs/ResonantRise/files/5.x/primitivemobs-1.2.3a.jar" file="primitivemobs-1.2.3a.jar" md5="51af727bbf9957d629a81cf88984f980" download="server"
              type="mods" website="http://www.curseforge.com/projects/primitive-mobs/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/primitive-mobs?gameCategorySlug=mc-mods&amp;projectID=282415&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=dave-grotendorst%40hotmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/primitive-mobs?gameCategorySlug=mc-mods&amp;projectID=282415&amp;lc=US&amp;item_name=Primitive+Mobs+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Daveyx0" description="A small mod that adds mobs with &quot;Minecrafty&quot; feel." />
+
+        <mod name="ProjectRed Core" version="4.9.1.92" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.1.92-Base.jar" file="ProjectRed-1.12.2-4.9.1.92-Base.jar" md5="d70bc67baad5c7739f39b88f22182450" download="server" type="mods" />
+
+        <mod name="ProjectRed Compatibility" version="4.9.1.92" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.1.92-compat.jar" file="ProjectRed-1.12.2-4.9.1.92-compat.jar" md5="850041255fa6b555f4f4c53c26dc9f08" download="server" type="mods" />
+
+        <mod name="ProjectRed Fabrication" version="4.9.1.92" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.1.92-fabrication.jar" file="ProjectRed-1.12.2-4.9.1.92-fabrication.jar" md5="30830faa0777da6f0104acd3aaf336ce" download="server" type="mods" />
+
+        <mod name="ProjectRed Transmission" version="4.9.1.92" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.1.92-integration.jar" file="ProjectRed-1.12.2-4.9.1.92-integration.jar" md5="b09e19b2005c2c48fd3001703d3e425d" download="server" type="mods" />
+
+        <mod name="ProjectRed Illumination" version="4.9.1.92" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.1.92-lighting.jar" file="ProjectRed-1.12.2-4.9.1.92-lighting.jar" md5="730390ea1cb64c8bc50c98bcd8ed6b8c" download="server" type="mods" />
+
+        <mod name="Project Red - Mechanical" version="" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.1.92-mechanical.jar" file="ProjectRed-1.12.2-4.9.1.92-mechanical.jar" md5="206c601a3800e3ff0e21763f2e9e8b9c" download="server" type="mods" />
+
+        <mod name="ProjectRed Exploration" version="4.9.1.92" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.1.92-world.jar" file="ProjectRed-1.12.2-4.9.1.92-world.jar" md5="6d048f2e2eff31376f0f6668e761f5d5" download="server" type="mods" />
 
         <mod name="Psi"
              version="r1.1-74" url="packs/ResonantRise/files/5.x/Psi-r1.1-74.jar" file="Psi-r1.1-74.jar" md5="f2f7a1412e1d9b7a766a74d639a9060a" download="server"
@@ -899,6 +919,8 @@
         <mod name="Xaero&apos;s Minimap"
              version="1.16" url="packs/ResonantRise/files/5.x/Xaeros_Minimap_1.16.2_Forge_1.12.jar" file="Xaeros_Minimap_1.16.2_Forge_1.12.jar" md5="88b647d45e37537cc5cfddeba79054f4" download="server"
              type="mods" website="http://www.curseforge.com/projects/xaeros-minimap/" authors="Xaero96" description="The most &quot;vanilla-looking&quot; minimap for Minecraft." />
+
+        <mod name="Xaero&apos;s World Map" version="1.3.4.1" url="packs/ResonantRise/files/5.x/XaerosWorldMap_1.3.4.1_Forge_1.12.jar" file="XaerosWorldMap_1.3.4.1_Forge_1.12.jar" md5="3882579cf8397e6e51eb7bc2007e7744" download="server" type="mods" />
 
         <mod name="XNet"
              version="1.12-1.7.6" url="packs/ResonantRise/files/5.x/xnet-1.12-1.7.6.jar" file="xnet-1.12-1.7.6.jar" md5="f779d469616aff30cdb5db075ece8ea1" download="server"
