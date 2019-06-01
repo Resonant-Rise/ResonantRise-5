@@ -595,24 +595,22 @@
              version="2.5.3" url="packs/ResonantRise/files/5.x/MCMultiPart-2.5.3.jar" file="MCMultiPart-2.5.3.jar" md5="47987d111d6f1e48403bc3cbb23f5503" download="server"
              type="mods" website="http://www.curseforge.com/projects/mcmultipart/" authors="amadornes" description="A universal multipart API for modern Minecraft" />
 
-        <mod name="Mekanica"
+        <!-- <mod name="Mekanica"
              version="1.12.2-1.2.0" url="packs/ResonantRise/files/5.x/mekanica-1.12.2-1.2.0.jar" file="mekanica-1.12.2-1.2.0.jar" md5="5eb888ca75b1d051f3e97ba279728a75" download="server"
              type="mods" website="http://www.curseforge.com/projects/mekanism-generators-dz-edition/" authors="pupnewfster,dizzyd" description="Tools and Machines; an active fork of Mekanism" />
 
         <mod name="Mekanica: Generators"
              version="1.12.2-1.2.0" url="packs/ResonantRise/files/5.x/mekanica-generators-1.12.2-1.2.0.jar" file="mekanica-generators-1.12.2-1.2.0.jar" md5="68a068b34f4ec9320d4b1306aa1aa2e4" download="server"
-             type="mods" website="http://www.curseforge.com/projects/mekanism-generators-dz-edition/" authors="pupnewfster,dizzyd" description="Generators module for Mekanica" />
+             type="mods" website="http://www.curseforge.com/projects/mekanism-generators-dz-edition/" authors="pupnewfster,dizzyd" description="Generators module for Mekanica" /> -->
 
-<!--
+
         <mod name="Mekanism"
-             version="1.12.2-9.4.13.349" url="packs/ResonantRise/files/5.x/Mekanism-1.12.2-9.4.13.349.jar" file="Mekanism-1.12.2-9.4.13.349.jar" md5="bf6d861193adb5d51f9eabe072bcd840" download="server"
+            version="1.12.2-9.7.5.376" url="packs/ResonantRise/files/5.x/Mekanism-1.12.2-9.7.5.376.jar" file="Mekanism-1.12.2-9.7.5.376.jar" md5="6f680cfe521e275b5cf1a7e199633e27" download="server"
              type="mods" website="http://www.curseforge.com/projects/mekanism/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/mekanism?gameCategorySlug=mc-mods&amp;projectID=268560&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=me%40aidancbrady.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/mekanism?gameCategorySlug=mc-mods&amp;projectID=268560&amp;lc=US&amp;item_name=Mekanism+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="aidancbrady" description="Energy, Armor, Tools, Weapons, Machines, Magic." />
 
         <mod name="MekanismGenerators"
-             version="1.12.2-9.4.13.349" url="packs/ResonantRise/files/5.x/MekanismGenerators-1.12.2-9.4.13.349.jar" file="MekanismGenerators-1.12.2-9.4.13.349.jar" md5="036cfdbdca2b8432ba9b86cccbce8c55" download="server"
-             type="mods" website="http://www.curseforge.com/projects/mekanism-generators/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/mekanism-generators?gameCategorySlug=mc-mods&amp;projectID=268566&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=me%40aidancbrady.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/mekanism-generators?gameCategorySlug=mc-mods&amp;projectID=268566&amp;lc=US&amp;item_name=Mekanism+Generators+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="aidancbrady" description="Generators module of Mekanism." />
-
--->
+             version="1.12.2-9.7.5.376" url="packs/ResonantRise/files/5.x/MekanismGenerators-1.12.2-9.7.5.376.jar" file="MekanismGenerators-1.12.2-9.7.5.376.jar" md5="70a7b5974ada1321e88c510684445e20" download="server"
+             type="mods" website="http://www.curseforge.com/projects/mekanism-generators/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/mekanism-generators?gameCategorySlug=mc-mods&amp;projectID=268566&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=me%40aidancbrady.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/mekanism-generators?gameCategorySlug=mc-mods&amp;projectID=268566&amp;lc=US&amp;item_name=Mekanism+Generators+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="aidancbrady" description="Generators module of Mekanism." />\
 
         <mod name="MineMenu"
              version="1.12.2-1.6.9" url="packs/ResonantRise/files/5.x/MineMenu-1.12.2-1.6.9-universal.jar" file="MineMenu-1.12.2-1.6.9-universal.jar" md5="4637805b60ae517a8ebfb80c39fe4d54" download="server"
@@ -682,9 +680,9 @@
              version="1.4-17" url="packs/ResonantRise/files/5.x/Neat1.4-17.jar" file="Neat1.4-17.jar" md5="c371deab2490ecd6a2689eed09302d23" download="server"
              type="mods" website="http://www.vazkii.us" authors="Vazkii" description="Minimalistic Functional Unit Plates for the modern Minecrafter" />
 
-        <mod name="NotEnoughIDs"
+        <!-- <mod name="NotEnoughIDs"
              version="1.5.4.4" url="packs/ResonantRise/files/5.x/NotEnoughIDs-1.5.4.4.jar" file="NotEnoughIDs-1.5.4.4.jar" md5="759494e409ce5d2ac277fc350e89500a" download="server"
-             type="mods" website="http://www.curseforge.com/projects/notenoughids/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/notenoughids?gameCategorySlug=mc-mods&amp;projectID=235107&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=hazeevaidar%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/notenoughids?gameCategorySlug=mc-mods&amp;projectID=235107&amp;lc=US&amp;item_name=NotEnoughIDs+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="fewizz,Player" description="Extends hardcoded block ID limit." />
+             type="mods" website="http://www.curseforge.com/projects/notenoughids/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/notenoughids?gameCategorySlug=mc-mods&amp;projectID=235107&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=hazeevaidar%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/notenoughids?gameCategorySlug=mc-mods&amp;projectID=235107&amp;lc=US&amp;item_name=NotEnoughIDs+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="fewizz,Player" description="Extends hardcoded block ID limit." /> -->
 
         <mod name="OpenBlocks"
              version="1.8.1" url="packs/ResonantRise/files/5.x/OpenBlocks-1.12.2-1.8.1.jar" file="OpenBlocks-1.12.2-1.8.1.jar" md5="cd7f642f983669c6ae94d6a999d0d6e9" download="server"
@@ -741,6 +739,8 @@
         <mod name="Quark Oddities"
              version="1.12.2" url="packs/ResonantRise/files/5.x/QuarkOddities-1.12.2.jar" file="QuarkOddities-1.12.2.jar" md5="6e16630baca6837163dbee699ef3cf4b" download="server"
              type="mods" website="http://www.curseforge.com/projects/quark-oddities/" authors="Vazkii" description="An addon to Quark containing thoughtfully designed features for players to build around" />
+
+        <mod name="RandomPatches" version="1.12.2-1.15.1.0" url="packs/ResonantRise/files/5.x/randompatches-1.12.2-1.15.1.0.jar" file="randompatches-1.12.2-1.15.1.0.jar" md5="3da8303cc4663f2acacb43376c489b15" download="server" type="mods" />
 
         <mod name="Random Things"
              version="4.2.7.1" url="packs/ResonantRise/files/5.x/RandomThings-MC1.12.2-4.2.7.1.jar" file="RandomThings-MC1.12.2-4.2.7.1.jar" md5="7a5c69c310f4675da45546687bf59b4f" download="server"
