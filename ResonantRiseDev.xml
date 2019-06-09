@@ -504,6 +504,8 @@
 
         <mod name="Mantle" version="1.3.3.55" url="packs/ResonantRise/files/5.x/Mantle-1.12-1.3.3.55.jar" file="Mantle-1.12-1.3.3.55.jar" md5="1026f5f8d3c4997831decd9023ca65a6" download="server" type="mods" />
 
+        <mod name="MatterOverdrive: Legacy Edition" version="1.12.2-0.7.0.0" url="packs/ResonantRise/files/5.x/MatterOverdrive-1.12.2-0.7.1.0-universal.jar" file="MatterOverdrive-1.12.2-0.7.1.0-universal.jar" md5="bd261a01c6ca4dd29ba1700af40bb496" download="server" type="mods" />
+
         <mod name="McJtyLib" version="3.5.3" url="packs/ResonantRise/files/5.x/mcjtylib-1.12-3.5.3.jar" file="mcjtylib-1.12-3.5.3.jar" md5="7712f1205d619e73a85b0af0bc28ad58" download="server" type="mods" />
 
         <mod name="MCMultiPart"
@@ -519,13 +521,9 @@
              type="mods" website="http://www.curseforge.com/projects/mekanism-generators-dz-edition/" authors="pupnewfster,dizzyd" description="Generators module for Mekanica" /> -->
 
 
-        <mod name="Mekanism"
-            version="1.12.2-9.7.5.376" url="packs/ResonantRise/files/5.x/Mekanism-1.12.2-9.7.5.376.jar" file="Mekanism-1.12.2-9.7.5.376.jar" md5="6f680cfe521e275b5cf1a7e199633e27" download="server"
-             type="mods" website="http://www.curseforge.com/projects/mekanism/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/mekanism?gameCategorySlug=mc-mods&amp;projectID=268560&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=me%40aidancbrady.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/mekanism?gameCategorySlug=mc-mods&amp;projectID=268560&amp;lc=US&amp;item_name=Mekanism+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="aidancbrady" description="Energy, Armor, Tools, Weapons, Machines, Magic." />
+        <mod name="Mekanism" version="1.12.2-9.7.7.378" url="packs/ResonantRise/files/5.x/Mekanism-1.12.2-9.7.7.378.jar" file="Mekanism-1.12.2-9.7.7.378.jar" md5="e3708553221343be6c2c9ef1886bd99d" download="server" type="mods" />
 
-        <mod name="MekanismGenerators"
-             version="1.12.2-9.7.5.376" url="packs/ResonantRise/files/5.x/MekanismGenerators-1.12.2-9.7.5.376.jar" file="MekanismGenerators-1.12.2-9.7.5.376.jar" md5="70a7b5974ada1321e88c510684445e20" download="server"
-             type="mods" website="http://www.curseforge.com/projects/mekanism-generators/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/mekanism-generators?gameCategorySlug=mc-mods&amp;projectID=268566&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=me%40aidancbrady.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/mekanism-generators?gameCategorySlug=mc-mods&amp;projectID=268566&amp;lc=US&amp;item_name=Mekanism+Generators+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="aidancbrady" description="Generators module of Mekanism." />\
+        <mod name="Mekanism: Generators" version="1.12.2-9.7.7.378" url="packs/ResonantRise/files/5.x/MekanismGenerators-1.12.2-9.7.7.378.jar" file="MekanismGenerators-1.12.2-9.7.7.378.jar" md5="b3a97111192aaf6259b81b97b565b430" download="server" type="mods" />
 
         <mod name="MineMenu" version="1.12.2-1.6.10" url="packs/ResonantRise/files/5.x/MineMenu-1.12.2-1.6.10-universal.jar" file="MineMenu-1.12.2-1.6.10-universal.jar" md5="5e9070f9c1aeeda1c1ed798c141815ce" download="server" type="mods" />
 
