@@ -8,7 +8,8 @@
                <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge</extraarguments>
     </pack>
-    <libraries>
+     <loader type="forge" version="14.23.5.2838" />
+    <!-- <libraries>
         <library url="packs/ResonantRise/files/forgelibs/1.12.2_14.23.5.2810/launchwrapper-1.12.jar" download="server" file="launchwrapper-1.12.jar" md5="934b2d91c7c5be4a49577c9e6b40e8da" server="net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar" />
         <library url="packs/ResonantRise/files/forgelibs/1.12.2_14.23.5.2810/asm-all-5.2.jar" download="server" file="asm-all-5.2.jar" md5="f5ad16c7f0338b541978b0430d51dc83" server="org/ow2/asm/asm-all/5.2/asm-all-5.2.jar" />
         <library url="packs/ResonantRise/files/forgelibs/1.12.2_14.23.5.2810/jline-3.5.1.jar" download="server" file="jline-3.5.1.jar" md5="4c20d2879ed2bd75a0771ce29e89f6b0" server="org/jline/jline/3.5.1/jline-3.5.1.jar" />
@@ -29,7 +30,7 @@
         <library url="packs/ResonantRise/files/forgelibs/1.12.2_14.23.5.2810/vecmath-1.5.2.jar" download="server" file="vecmath-1.5.2.jar" md5="e5d2b7f46c4800a32f62ce75676a5710" server="java3d/vecmath/1.5.2/vecmath-1.5.2.jar" />
         <library url="packs/ResonantRise/files/forgelibs/1.12.2_14.23.5.2810/trove4j-3.0.3.jar" download="server" file="trove4j-3.0.3.jar" md5="8fc4d4e0129244f9fd39650c5f30feb2" server="net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar" />
         <library url="packs/ResonantRise/files/forgelibs/1.12.2_14.23.5.2810/maven-artifact-3.5.3.jar" download="server" file="maven-artifact-3.5.3.jar" md5="7741ebf29690ee7d9dde9cf4376347fc" server="org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar" />
-    </libraries>
+    </libraries> -->
 
 
 <!-- Colors for the use of seperation -->
@@ -104,7 +105,7 @@
     
 <!-- Forge -->
 
-        <mod
+        <!-- `<mod
              name="=== Forge ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
              type="extract" extractto="root" colour="GC"
@@ -115,7 +116,7 @@
 
         <mod name="Minecraft Forge"
              version="14.23.5.2810" url="packs/ResonantRise/files/5.x/forge-1.12.2-14.23.5.2810-universal.jar" file="forge-1.12.2-14.23.5.2810-universal.jar" md5="94f10196e91f6e377cfb886c4c8eb8d7" download="server"
-             type="forge" website="https://files.minecraftforge.net/" description="Backbone to modded Minecraft" />
+             type="forge" website="https://files.minecraftforge.net/" description="Backbone to modded Minecraft" /> -->
 
 
 
@@ -637,7 +638,7 @@
 
         <mod name="ProjectRed Illumination" version="4.9.1.92" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.1.92-lighting.jar" file="ProjectRed-1.12.2-4.9.1.92-lighting.jar" md5="730390ea1cb64c8bc50c98bcd8ed6b8c" download="server" type="mods" />
 
-        <mod name="Project Red - Mechanical" version="" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.1.92-mechanical.jar" file="ProjectRed-1.12.2-4.9.1.92-mechanical.jar" md5="206c601a3800e3ff0e21763f2e9e8b9c" download="server" type="mods" />
+        <mod name="Project Red - Mechanical" version="4.9.1.92" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.1.92-mechanical.jar" file="ProjectRed-1.12.2-4.9.1.92-mechanical.jar" md5="206c601a3800e3ff0e21763f2e9e8b9c" download="server" type="mods" />
 
         <mod name="ProjectRed Exploration" version="4.9.1.92" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.1.92-world.jar" file="ProjectRed-1.12.2-4.9.1.92-world.jar" md5="6d048f2e2eff31376f0f6668e761f5d5" download="server" type="mods" />
 
@@ -669,7 +670,7 @@
              version="2.1.0.6" url="packs/ResonantRise/files/5.x/RedstoneFlux-1.12-2.1.0.6-universal.jar" file="RedstoneFlux-1.12-2.1.0.6-universal.jar" md5="f00530b437c41a189dbf8a85d0ac40b6" download="server"
              type="mods" website="http://www.teamcofh.com" authors="Team CoFH" description="The Redstone Flux API - the cornerstone of Energy Transfer in modded Minecraft since 1.6.4." />
 
-        <mod name="Restrictions" version="" url="packs/ResonantRise/files/5.x/restrictions-1.12-1.3.0.jar" file="restrictions-1.12-1.3.0.jar" md5="2199b78dbf38c09a5560f0b8b3dee643" download="server" type="mods" />
+        <mod name="Restrictions" version="1.3.0" url="packs/ResonantRise/files/5.x/restrictions-1.12-1.3.0.jar" file="restrictions-1.12-1.3.0.jar" md5="2199b78dbf38c09a5560f0b8b3dee643" download="server" type="mods" />
 
         <mod name="RFTools" version="1.12-7.71" url="packs/ResonantRise/files/5.x/rftools-1.12-7.71.jar" file="rftools-1.12-7.71.jar" md5="ef83816ac55bb6df097e390213f72652" download="server" type="mods" />
 
@@ -677,7 +678,7 @@
 
         <mod name="RFTools Dimensions" version="1.12-5.71" url="packs/ResonantRise/files/5.x/rftoolsdim-1.12-5.71.jar" file="rftoolsdim-1.12-5.71.jar" md5="ee4db68d6afee08ec383f525a331ef53" download="server" type="mods" />
 
-        <mod name="RFTools Power" version="" url="packs/ResonantRise/files/5.x/rftoolspower-1.12-1.2.0.jar" file="rftoolspower-1.12-1.2.0.jar" md5="afd405e1ba3857a4bff72c394c3540af" download="server" type="mods" />
+        <mod name="RFTools Power" version="1.2.0" url="packs/ResonantRise/files/5.x/rftoolspower-1.12-1.2.0.jar" file="rftoolspower-1.12-1.2.0.jar" md5="afd405e1ba3857a4bff72c394c3540af" download="server" type="mods" />
 
         <mod name="Scannable"
              version="1.6.3.24" url="packs/ResonantRise/files/5.x/Scannable-MC1.12.2-1.6.3.24.jar" file="Scannable-MC1.12.2-1.6.3.24.jar" md5="3873d7e7061835bdf06fc83e58de64f0" download="server"
@@ -710,7 +711,7 @@
              version="1.12.2-1.0.15" url="packs/ResonantRise/files/5.x/tesla-core-lib-1.12.2-1.0.15.jar" file="tesla-core-lib-1.12.2-1.0.15.jar" md5="b0214b0a90243374c6bd89a023f2b26e" download="server"
              type="mods" website="http://www.curseforge.com/projects/tesla-core-lib/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/tesla-core-lib?gameCategorySlug=mc-mods&amp;projectID=254602&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=c%40ndrei.net&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/tesla-core-lib?gameCategorySlug=mc-mods&amp;projectID=254602&amp;lc=US&amp;item_name=Tesla+Core+Lib+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Face_of_Cat" description="Just the most awesome lib mod out there!" />
 
-        <mod name="TexFix" version="1.12-4.0" url="packs/ResonantRise/files/5.x/TexFixV-1.12-4.0.jar" file="TexFixV-1.12-4.0.jar" md5="241a28a767464fa15f9bd642c2d9f673" download="server" type="mods" description="" website="" />
+        <mod name="TexFix" version="1.12-4.0" url="packs/ResonantRise/files/5.x/TexFixV-1.12-4.0.jar" file="TexFixV-1.12-4.0.jar" md5="241a28a767464fa15f9bd642c2d9f673" download="server" type="mods" description="There comes this mod into play, after everything is loaded it goes over your texture manager and deletes all the none animate sprites from your ram to reduce the amount of Ram that is using." website="https://minecraft.curseforge.com/projects/texfix" />
 
         <mod name="The One Probe" version="1.12-1.4.28" url="packs/ResonantRise/files/5.x/theoneprobe-1.12-1.4.28.jar" file="theoneprobe-1.12-1.4.28.jar" md5="63849a13a822b3b56308245eb8074a7e" download="server" type="mods" />
 
