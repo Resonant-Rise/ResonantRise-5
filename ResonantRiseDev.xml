@@ -710,13 +710,9 @@
              version="1.12.2-1.0.15" url="packs/ResonantRise/files/5.x/tesla-core-lib-1.12.2-1.0.15.jar" file="tesla-core-lib-1.12.2-1.0.15.jar" md5="b0214b0a90243374c6bd89a023f2b26e" download="server"
              type="mods" website="http://www.curseforge.com/projects/tesla-core-lib/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/tesla-core-lib?gameCategorySlug=mc-mods&amp;projectID=254602&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=c%40ndrei.net&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/tesla-core-lib?gameCategorySlug=mc-mods&amp;projectID=254602&amp;lc=US&amp;item_name=Tesla+Core+Lib+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Face_of_Cat" description="Just the most awesome lib mod out there!" />
 
-        <mod name="TexFix"
-             version="4.0" url="packs/ResonantRise/files/5.x/TexFixV-1.12-4.0.jar" file="TexFixV-1.12-4.0.jar" md5="241a28a767464fa15f9bd642c2d9f673" download="server"
-             type="mods" website="http://www.curseforge.com/projects/texfix/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/texfix?gameCategorySlug=mc-mods&amp;projectID=283344&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=moritzstehr%40gmx.net&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/texfix?gameCategorySlug=mc-mods&amp;projectID=283344&amp;lc=US&amp;item_name=TexFix+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Speiger" description="Reduce the memory footprint of your textures" />
+        <mod name="TexFix" version="1.12-4.0" url="packs/ResonantRise/files/5.x/TexFixV-1.12-4.0.jar" file="TexFixV-1.12-4.0.jar" md5="241a28a767464fa15f9bd642c2d9f673" download="server" type="mods" description="" website="" />
 
-        <mod name="The One Probe"
-             version="1.12-1.4.28" url="packs/ResonantRise/files/5.x/theoneprobe-1.12-1.4.28.jar" file="theoneprobe-1.12-1.4.28.jar" md5="63849a13a822b3b56308245eb8074a7e" download="server"
-             type="mods" website="http://www.curseforge.com/projects/the-one-probe/" authors="McJty" description="A Probe to rule them all!" />
+        <mod name="The One Probe" version="1.12-1.4.28" url="packs/ResonantRise/files/5.x/theoneprobe-1.12-1.4.28.jar" file="theoneprobe-1.12-1.4.28.jar" md5="63849a13a822b3b56308245eb8074a7e" download="server" type="mods" />
 
         <mod name="Thermal Cultivation" version="0.3.3.12" url="packs/ResonantRise/files/5.x/ThermalCultivation-1.12.2-0.3.3.12-universal.jar" file="ThermalCultivation-1.12.2-0.3.3.12-universal.jar" md5="a6993f3947a833582909c7e31325987c" download="server" type="mods" />
 
@@ -736,31 +732,21 @@
              version="1.12.2-0.3.1" url="packs/ResonantRise/files/5.x/TinkersComplement-1.12.2-0.3.1.jar" file="TinkersComplement-1.12.2-0.3.1.jar" md5="c41ec072895b6f1bac06a6a439bdf36c" download="server"
              type="mods" website="https://minecraft.curseforge.com/projects/tinkers-complement" authors="KnightMiner" description="Addon for Tinkers Construct adding various features to complement those from Tinkers" />
 
-        <mod name="Tinker I/O"
-             version="1.12.2-rw2.7.1" url="packs/ResonantRise/files/5.x/tinker_io-1.12.2-rw2.7.1.jar" file="tinker_io-1.12.2-rw2.7.1.jar" md5="2b210b0191a90613f7386aa0f68e896f" download="server"
-             type="mods" website="http://minecraft.curseforge.com/mc-mods/229503-tinker-i-o" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/tinker-i-o?gameCategorySlug=mc-mods&amp;projectID=229503&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=gkbm2013%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/tinker-i-o?gameCategorySlug=mc-mods&amp;projectID=229503&amp;lc=US&amp;item_name=Tinker+I%2fO+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="GKB,tokomikea" description="I/O for Smeltery! (Tinker I/O rewrite version)" />
+        <mod name="Tinker I/O" version="1.12.2-rw2.7.1" url="packs/ResonantRise/files/5.x/tinker_io-1.12.2-rw2.7.1.jar" file="tinker_io-1.12.2-rw2.7.1.jar" md5="2b210b0191a90613f7386aa0f68e896f" download="server" type="mods" />
 
-        <mod name="Tinkers Tool Leveling"
-             version="1.1.0" url="packs/ResonantRise/files/5.x/TinkerToolLeveling-1.12.2-1.1.0.jar" file="TinkerToolLeveling-1.12.2-1.1.0.jar" md5="f9253fe86c6649afbf49d221c71ba19a" download="server"
-             type="mods" website="https://github.com/SlimeKnights/TinkersToolLeveling" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/tinkers-tool-leveling?gameCategorySlug=mc-mods&amp;projectID=250957&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=bernhard.bonigl%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/tinkers-tool-leveling?gameCategorySlug=mc-mods&amp;projectID=250957&amp;lc=US&amp;item_name=Tinkers%27+Tool+Leveling+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="boni" description="A small mod that gives your tools XP and awards extra modifiers on levelup" />
+        <mod name="Tinkers Tool Leveling" version="1.1.0" url="packs/ResonantRise/files/5.x/TinkerToolLeveling-1.12.2-1.1.0.jar" file="TinkerToolLeveling-1.12.2-1.1.0.jar" md5="f9253fe86c6649afbf49d221c71ba19a" download="server" type="mods" />
 
         <!-- <mod name="Tiny Progressions" version="3.2.31" url="packs/ResonantRise/files/5.x/tinyprogressions-1.12.2-3.3.34-Release.jar" file="tinyprogressions-1.12.2-3.3.34-Release.jar" md5="edd094aba8bdaa2d42b79af68df17cc4" download="server" type="mods" /> -->
 
-        <mod name="Tomb Many Graves"
-             version="1.12-4.2.0" url="packs/ResonantRise/files/5.x/TombManyGraves-1.12-4.2.0.jar" file="TombManyGraves-1.12-4.2.0.jar" md5="a8cb01e6ff16b4375c9b73c0fcc1c0c2" download="server"
-             type="mods" website="http://www.curseforge.com/projects/tomb-many-graves-2/" authors="M4thG33k" description="A grave mod for the adventurer on the go!" />
+        <mod name="Tomb Many Graves" version="1.12-4.2.0" url="packs/ResonantRise/files/5.x/TombManyGraves-1.12-4.2.0.jar" file="TombManyGraves-1.12-4.2.0.jar" md5="a8cb01e6ff16b4375c9b73c0fcc1c0c2" download="server" type="mods" />
 
-        <mod name="Too Many Efficiency Losses"
-             version="1.12.2-1.3.2.2" url="packs/ResonantRise/files/5.x/tmel-1.12.2-1.3.2.2.jar" file="tmel-1.12.2-1.3.2.2.jar" md5="9940d3c51cae71ce4faacdc59d65dcf1" download="server"
-             type="mods" website="https://minecraft.curseforge.com/projects/too-many-efficiency-losses" authors="CaffeinatedPinkie" description="Gives you a much needed break from the ridiculous Extra Utilities 2 power efficiency loss. Or you can just remove GP altogether. That and more..." />
+        <mod name="Too Many Efficiency Losses" version="1.12.2-1.3.2.2" url="packs/ResonantRise/files/5.x/tmel-1.12.2-1.3.2.2.jar" file="tmel-1.12.2-1.3.2.2.jar" md5="9940d3c51cae71ce4faacdc59d65dcf1" download="server" type="mods" />
 
-        <mod name="TorchMaster"
-             version="1.7.1.74" url="packs/ResonantRise/files/5.x/torchmaster_1.12.2-1.7.1.74.jar" file="torchmaster_1.12.2-1.7.1.74.jar" md5="14de6fbebbfc54bbc350a71dcc0359dc" download="server"
-             type="mods" website="http://www.curseforge.com/projects/torchmaster/" authors="xalcon" description="Adds a special torch which prevents mobs from spawning in a configurable range" />
+        <mod name="TorchMaster" version="1.7.1.74" url="packs/ResonantRise/files/5.x/torchmaster_1.12.2-1.7.1.74.jar" file="torchmaster_1.12.2-1.7.1.74.jar" md5="14de6fbebbfc54bbc350a71dcc0359dc" download="server" type="mods" />
 
-        <mod name="Translocators"
-             version="2.5.1.77" url="packs/ResonantRise/files/5.x/Translocators-1.12.2-2.5.1.77-universal.jar" file="Translocators-1.12.2-2.5.1.77-universal.jar" md5="c04e6bdd5f61f26e824ac47b97fde260" download="server"
-             type="mods" website="http://www.minecraftforum.net/topic/909223" authors="ChickenBones" description="Translocates stuff!" />
+        <mod name="Translocators" version="2.5.1.77" url="packs/ResonantRise/files/5.x/Translocators-1.12.2-2.5.1.77-universal.jar" file="Translocators-1.12.2-2.5.1.77-universal.jar" md5="c04e6bdd5f61f26e824ac47b97fde260" download="server" type="mods" />
+
+        <mod name="Traverse" version="1.12.2-1.6.0-69" url="packs/ResonantRise/files/5.x/Traverse-1.12.2-1.6.0-69.jar" file="Traverse-1.12.2-1.6.0-69.jar" md5="3cc748cd333cab2e5f8132a89cd40b48" download="server" type="mods" />
 
         <mod name="The Twilight Forest"
              version="3.8.689" url="packs/ResonantRise/files/5.x/twilightforest-1.12.2-3.8.689-universal.jar" file="twilightforest-1.12.2-3.8.689-universal.jar" md5="d9a9e3e5dd851f5cbb50b72aab5e6037" download="server"
