@@ -615,7 +615,7 @@
              version="2.1.44" url="packs/ResonantRise/files/5.x/p455w0rdslib-1.12.2-2.1.44.jar" file="p455w0rdslib-1.12.2-2.1.44.jar" md5="0825306f9ef61099703d797596b84ef3" download="server"
              type="mods" website="http://p455w0rd.net/" authors="TheRealp455w0rd" description="Library component for all of p455w0rd&apos;s mods" />
 
-        <mod name="Pam&apos;s HarvestCraft" version="1.12a" url="packs/ResonantRise/files/5.x/PamsHarvestCraft1.12.2zdSurpriseforYogcast.jar" file="PamsHarvestCraft1.12.2zdSurpriseforYogcast.jar" md5="d383ea51ccdd80e51ef8079d36c03ef1" download="server" type="mods" />
+        <!-- <mod name="Pam&apos;s HarvestCraft" version="1.12a" url="packs/ResonantRise/files/5.x/PamsHarvestCraft1.12.2zdSurpriseforYogcast.jar" file="PamsHarvestCraft1.12.2zdSurpriseforYogcast.jar" md5="d383ea51ccdd80e51ef8079d36c03ef1" download="server" type="mods" /> -->
 
         <mod name="Phosphor Lighting Engine" version="1.12.2-0.2.4+build46" url="packs/ResonantRise/files/5.x/phosphor-1.12.2-0.2.4build46-universal.jar" file="phosphor-1.12.2-0.2.4build46-universal.jar" md5="85c1218bb88ab43c3347794e19295fbf" download="server" type="mods" />
 
@@ -744,7 +744,7 @@
              version="1.1.0" url="packs/ResonantRise/files/5.x/TinkerToolLeveling-1.12.2-1.1.0.jar" file="TinkerToolLeveling-1.12.2-1.1.0.jar" md5="f9253fe86c6649afbf49d221c71ba19a" download="server"
              type="mods" website="https://github.com/SlimeKnights/TinkersToolLeveling" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/tinkers-tool-leveling?gameCategorySlug=mc-mods&amp;projectID=250957&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=bernhard.bonigl%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/tinkers-tool-leveling?gameCategorySlug=mc-mods&amp;projectID=250957&amp;lc=US&amp;item_name=Tinkers%27+Tool+Leveling+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="boni" description="A small mod that gives your tools XP and awards extra modifiers on levelup" />
 
-        <mod name="Tiny Progressions" version="3.2.31" url="packs/ResonantRise/files/5.x/tinyprogressions-1.12.2-3.3.34-Release.jar" file="tinyprogressions-1.12.2-3.3.34-Release.jar" md5="edd094aba8bdaa2d42b79af68df17cc4" download="server" type="mods" />
+        <!-- <mod name="Tiny Progressions" version="3.2.31" url="packs/ResonantRise/files/5.x/tinyprogressions-1.12.2-3.3.34-Release.jar" file="tinyprogressions-1.12.2-3.3.34-Release.jar" md5="edd094aba8bdaa2d42b79af68df17cc4" download="server" type="mods" /> -->
 
         <mod name="Tomb Many Graves"
              version="1.12-4.2.0" url="packs/ResonantRise/files/5.x/TombManyGraves-1.12-4.2.0.jar" file="TombManyGraves-1.12-4.2.0.jar" md5="a8cb01e6ff16b4375c9b73c0fcc1c0c2" download="server"
