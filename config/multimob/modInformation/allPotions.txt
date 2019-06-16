@@ -42,6 +42,7 @@ tconstruct:splinter
 quark:curse
 quark:danger_sight
 bloodmagic:boost
+bloodmagic:whirlwind
 bloodmagic:planar_binding
 bloodmagic:soul_snare
 bloodmagic:soul_fray
