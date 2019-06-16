@@ -280,7 +280,7 @@
 
         <mod name="Chisels &amp; Bits" version="14.33" url="packs/ResonantRise/files/5.x/chiselsandbits-14.33.jar" file="chiselsandbits-14.33.jar" md5="e056e23559965f2ebabf47aad0fe51a3" download="server" type="mods" />
 
-        <mod name="Classy Hats" version="1.6.0" url="packs/ResonantRise/files/5.x/classyhats-1.6.0.jar" file="classyhats-1.6.0.jar" md5="f3f3f981c4bcb51d5028658857a2336f" download="server" type="mods" />
+        <mod name="Classy Hats" version="1.5" url="packs/ResonantRise/files/5.x/ClassyHats-1.5.jar" file="ClassyHats-1.5.jar" md5="5c44a0944d235eefe37adbd177ef8f0f" download="server" type="mods" />
 
         <mod name="Clumps"
              version="3.1.2" url="packs/ResonantRise/files/5.x/Clumps-3.1.2.jar" file="Clumps-3.1.2.jar" md5="e0c4c4f04aeb0e0a48fc7534f9e7d6be" download="server"
@@ -489,7 +489,7 @@
 
         <mod name="Keyboard Wizard" version="1.12.2-1.7" url="packs/ResonantRise/files/5.x/keywizard-1.12.2-1.7.jar" file="keywizard-1.12.2-1.7.jar" md5="2c47900fd5994229f81f69e133d418aa" download="server" type="mods" />
 
-        <mod name="LibrarianLib" version="4.19.1" url="packs/ResonantRise/files/5.x/librarianlib-1.12.2-4.19.1-release.jar" file="librarianlib-1.12.2-4.19.1-release.jar" md5="d049b7b239d8249c16877554acadeab8" download="server" type="mods" />
+        <mod name="LibrarianLib" version="4.15" url="packs/ResonantRise/files/5.x/librarianlib-1.12.2-4.15.jar" file="librarianlib-1.12.2-4.15.jar" md5="25ea267be1a26d1605cf318d1892c380" download="server" type="mods" />
 
         <mod name="The Lost Quiver"
              version="1.0" url="packs/ResonantRise/files/5.x/lostquiver-1.0.jar" file="lostquiver-1.0.jar" md5="3e9b0050686e403a6dd5d97fe97f9d8d" download="server"
