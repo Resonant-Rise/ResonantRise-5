@@ -508,7 +508,11 @@
 
         <mod name="The Twilight Forest" version="3.8.689" url="packs/ResonantRise/files/5.x/twilightforest-1.12.2-3.8.689-universal.jar" file="twilightforest-1.12.2-3.8.689-universal.jar" md5="d9a9e3e5dd851f5cbb50b72aab5e6037" download="server" type="mods" />
 
+        <mod name="UniDict" version="1.12.2-2.9.2" url="packs/ResonantRise/files/5.x/UniDict-1.12.2-2.9.2.jar" file="UniDict-1.12.2-2.9.2.jar" md5="b1ba004241d86a3e1280c8911c2b4ff2" download="server" type="mods" />
+
         <mod name="Valkyrie Lib" version="1.12.2-2.0.20.1" url="packs/ResonantRise/files/5.x/valkyrielib-1.12.2-2.0.20.1.jar" file="valkyrielib-1.12.2-2.0.20.1.jar" md5="e9bfd5d4274395d87c0bea745a37223a" download="server" type="mods" />
+
+        <mod name="WanionLib" version="1.12.2-2.2" url="packs/ResonantRise/files/5.x/WanionLib-1.12.2-2.2.jar" file="WanionLib-1.12.2-2.2.jar" md5="da46d9a391cb6ac4d3bd453db2158e58" download="server" type="mods" />
 
         <mod name="Wireless Crafting Terminal 2" version="1.12.2-3.12.93" url="packs/ResonantRise/files/5.x/WirelessCraftingTerminal-1.12.2-3.12.93.jar" file="WirelessCraftingTerminal-1.12.2-3.12.93.jar" md5="7e46208a35505f189f6346a1c17c34fd" download="server" type="mods" />
 
