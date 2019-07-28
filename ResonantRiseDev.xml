@@ -719,7 +719,7 @@ Zero Core
              description="Optional Mod List."
              />
 
-        <mod name="The Lost Cities" version="1.12-2.0.21" url="packs/ResonantRise/files/5.x/lostcities-1.12-2.0.21.jar" file="lostcities-1.12-2.0.21.jar" md5="00ec27173f043e2af7de061ac23fe9ee" download="server" type="mods" />
+        <mod name="The Lost Cities" version="1.12-2.0.21" url="packs/ResonantRise/files/5.x/lostcities-1.12-2.0.21.jar" file="lostcities-1.12-2.0.21.jar" md5="00ec27173f043e2af7de061ac23fe9ee" download="server" type="mods" optional="yes" />
 
         <mod name="Lost Souls"
              version="1.12-1.1.4" depends="The Lost Cities" url="packs/ResonantRise/files/5.x/lostsouls-1.12-1.1.4.jar" file="lostsouls-1.12-1.1.4.jar" md5="6302e60ef37ff5a517cd5434ef6f039a" download="server"
