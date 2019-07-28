@@ -15,9 +15,9 @@
         {
             "image" : "mainmenu:textures/logo.png",
             "posX" : 100,
-            "posY" : -195,
+            "posY" : -120,
             "width" : 200,
-            "height" : 200,
+            "height" : 75,
             "alignment" : "left_center"
         }
 
@@ -29,8 +29,8 @@
         {
             "text" : "",
             "texture" : "mainmenu:textures/discord.png",
-            "posX" : -150,
-            "posY" : -150,
+            "posX" : -160,
+            "posY" : -70,
             "width" : 125,
             "height" : 40,
             "imageWidth" : 500,
@@ -139,6 +139,22 @@
                 "type" : "quit"
             }
         },
+    
+        "refresh":
+        {
+            "text" : "Refresh",
+            "normalTextColor" : 6710886,
+            "texture" : "mainmenu:textures/btn.png",
+            "posX" : 97,
+            "posY" : 180,
+            "width" : 196,
+            "height" : 20,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "refresh"
+            }
+        },
 
         "mods":
         {
@@ -182,7 +198,7 @@
 
 		"packTxt":
         {
-            "text" : "RR4 Beta",
+            "text" : "RR5 Beta",
             "posX" : 2,
             "posY" : -40,
             "color" : -1,
@@ -194,10 +210,10 @@
     {
         "splash-text":
         {
-            "posX" : 90,
-            "posY" : 70,
+            "posX" : 200,
+            "posY" : -160,
             "color" : -256,
-            "alignment" : "top_center"
+            "alignment" : "left_center"
         },
 
         "background":
