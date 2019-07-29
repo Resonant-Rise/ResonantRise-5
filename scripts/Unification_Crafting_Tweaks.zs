@@ -24,7 +24,7 @@ recipes.removeShaped(<thermalfoundation:material:24>, [
 recipes.removeShaped(<techreborn:iron_furnace>, [
     [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>],
     [<minecraft:iron_ingot>, null, <minecraft:iron_ingot>],
-    [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>]
+    [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>]]
 );
 
 ////////////////////////
