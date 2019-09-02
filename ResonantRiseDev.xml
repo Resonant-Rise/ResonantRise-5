@@ -164,9 +164,9 @@
 
         <mod name="Applied Energistics 2" version="rv6-stable-7" url="packs/ResonantRise/files/5.x/appliedenergistics2-rv6-stable-7.jar" file="appliedenergistics2-rv6-stable-7.jar" md5="b8667d60a761d5b5ae3c8a15192f9e28" download="server" type="mods" />
 
-        <mod name="Artifacts" version="1.12.2-1.0.2" url="packs/ResonantRise/files/5.x/Artifacts-1.12.2-1.0.2.jar" file="Artifacts-1.12.2-1.0.2.jar" md5="49c2db2912e2220f0dc32e6b7f2a63e6" download="server" type="mods" />
+        <mod name="Artifacts" version="1.12.2-1.1.0" url="packs/ResonantRise/files/5.x/Artifacts-1.12.2-1.1.0.jar" file="Artifacts-1.12.2-1.1.0.jar" md5="07642c182fb9091043f59da3a27227b0" download="server" type="mods" />
 
-        <mod name="Astral Sorcery" version="1.12.2-1.10.19" url="packs/ResonantRise/files/5.x/astralsorcery-1.12.2-1.10.19.jar" file="astralsorcery-1.12.2-1.10.19.jar" md5="a46a48be36ce03360ca3e0addc1ebc51" download="server" type="mods" />
+        <mod name="Astral Sorcery" version="1.12.2-1.10.20" url="packs/ResonantRise/files/5.x/astralsorcery-1.12.2-1.10.20.jar" file="astralsorcery-1.12.2-1.10.20.jar" md5="91f1b2c79f54d6a450373bb0848308b0" download="server" type="mods" />
 
         <mod name="AutoRegLib" version="1.3-32" url="packs/ResonantRise/files/5.x/AutoRegLib-1.3-32.jar" file="AutoRegLib-1.3-32.jar" md5="4e5a4b881c27b1e4502a9a16c00882ad" download="server" type="mods" />
 
@@ -192,13 +192,13 @@
 
         <mod name="Brandon&apos;s Core" version="1.12.2-2.4.17.208" url="packs/ResonantRise/files/5.x/BrandonsCore-1.12.2-2.4.17.208-universal.jar" file="BrandonsCore-1.12.2-2.4.17.208-universal.jar" md5="b3cc0541f4a3758b299e2200d8d00cd3" download="server" type="mods" />
 
-        <mod name="Buildcraft" version="all-7.99.24.1" url="packs/ResonantRise/files/5.x/buildcraft-all-7.99.24.1.jar" file="buildcraft-all-7.99.24.1.jar" md5="45e9e731ce4acdd54d84b1851216b184" download="server" type="mods" />
+        <mod name="BuildCraft" version="all-7.99.24.2" url="packs/ResonantRise/files/5.x/buildcraft-all-7.99.24.2.jar" file="buildcraft-all-7.99.24.2.jar" md5="0f4d937c56b9d1cb0e99d30f3eaca6cc" download="server" type="mods" />
 
-        <mod name="Building Gadgets" version="2.7.1" url="packs/ResonantRise/files/5.x/BuildingGadgets-2.7.1.jar" file="BuildingGadgets-2.7.1.jar" md5="7f8e2fad73bebb2375f6e20e8783d075" download="server" type="mods" />
+        <mod name="Building Gadgets" version="2.7.2" url="packs/ResonantRise/files/5.x/BuildingGadgets-2.7.2.jar" file="BuildingGadgets-2.7.2.jar" md5="5742438bcfa49e13394cae5dda688203" download="server" type="mods" />
 
         <mod name="Chameleon" version="4.1.3" url="packs/ResonantRise/files/5.x/Chameleon-1.12-4.1.3.jar" file="Chameleon-1.12-4.1.3.jar" md5="e42efa8f4fd42d2918128a826b740e98" download="server" type="mods" />
 
-        <mod name="ChickenChunks" version="2.4.1.73" url="packs/ResonantRise/files/5.x/ChickenChunks-1.12.2-2.4.1.73-universal.jar" file="ChickenChunks-1.12.2-2.4.1.73-universal.jar" md5="c930adfeaa59c7d846b440e11a101d97" download="server" type="mods" />
+        <mod name="ChickenChunks" version="2.4.2.74" url="packs/ResonantRise/files/5.x/ChickenChunks-1.12.2-2.4.2.74-universal.jar" file="ChickenChunks-1.12.2-2.4.2.74-universal.jar" md5="f6bf337a09fcfa19aedc840f19cac222" download="server" type="mods" />
 
         <mod name="Chisel" version="0.2.1.35" url="packs/ResonantRise/files/5.x/Chisel-MC1.12.2-0.2.1.35.jar" file="Chisel-MC1.12.2-0.2.1.35.jar" md5="dbda5475859bcffc9f572c5a1506a1f4" download="server" type="mods" />
 
@@ -208,7 +208,7 @@
 
         <mod name="Clumps" version="3.1.2" url="packs/ResonantRise/files/5.x/Clumps-3.1.2.jar" file="Clumps-3.1.2.jar" md5="e0c4c4f04aeb0e0a48fc7534f9e7d6be" download="server" type="mods" />
 
-        <mod name="CodeChicken Lib" version="3.2.2.353" url="packs/ResonantRise/files/5.x/CodeChickenLib-1.12.2-3.2.2.353-universal.jar" file="CodeChickenLib-1.12.2-3.2.2.353-universal.jar" md5="f8b4843eccafb2213512ba9be17bfad2" download="server" type="mods" />
+        <mod name="CodeChicken Lib" version="3.2.3.357" url="packs/ResonantRise/files/5.x/CodeChickenLib-1.12.2-3.2.3.357-universal.jar" file="CodeChickenLib-1.12.2-3.2.3.357-universal.jar" md5="12887bccc9b3ca1a151e962e2f2a0235" download="server" type="mods" />
 
         <mod name="CoFH Core" version="4.6.3.27" url="packs/ResonantRise/files/5.x/CoFHCore-1.12.2-4.6.3.27-universal.jar" file="CoFHCore-1.12.2-4.6.3.27-universal.jar" md5="90efac9c0abffa63c6da1453ceca1d68" download="server" type="mods" />
 
@@ -222,7 +222,7 @@
 
         <mod name="CTM" version="MC1.12.2-0.3.3.22" url="packs/ResonantRise/files/5.x/CTM-MC1.12.2-0.3.3.22.jar" file="CTM-MC1.12.2-0.3.3.22.jar" md5="086cd9da4b8c50a9e483c7b580a9c4d8" download="server" type="mods" />
 
-        <mod name="Construct&apos;s Armory" version="1.12.2-1.2.3" url="packs/ResonantRise/files/5.x/conarm-1.12.2-1.2.3.jar" file="conarm-1.12.2-1.2.3.jar" md5="8f6ff0e5f907574890ed68296c9a192d" download="server" type="mods" />
+        <mod name="Construct&apos;s Armory" version="1.12.2-1.2.4" url="packs/ResonantRise/files/5.x/conarm-1.12.2-1.2.4.jar" file="conarm-1.12.2-1.2.4.jar" md5="4aa4a3ec1f903909bfd0ee4e065fd760" download="server" type="mods" />
 
         <mod name="Controlling" version="3.0.7" url="packs/ResonantRise/files/5.x/Controlling-3.0.7.jar" file="Controlling-3.0.7.jar" md5="f640a63ddae6419a706e4beaec4a9f31" download="server" type="mods" />
 
@@ -236,15 +236,15 @@
 
         <mod name="Custom Main Menu" version="2.0.9" url="packs/ResonantRise/files/5.x/CustomMainMenu-MC1.12.2-2.0.9.jar" file="CustomMainMenu-MC1.12.2-2.0.9.jar" md5="0d34d658c07ebe9dd36aba17e59f8d3d" download="server" type="mods" />
 
-        <mod name="Cyclops Core" version="1.12.2-1.4.0" url="packs/ResonantRise/files/5.x/CyclopsCore-1.12.2-1.4.0.jar" file="CyclopsCore-1.12.2-1.4.0.jar" md5="e1c2e93d0a1d119697cda06bee03241e" download="server" type="mods" />
+        <mod name="Cyclops Core" version="1.12.2-1.5.0" url="packs/ResonantRise/files/5.x/CyclopsCore-1.12.2-1.5.0.jar" file="CyclopsCore-1.12.2-1.5.0.jar" md5="9d9ea7b3bf7c54fc942fbf4e03715238" download="server" type="mods" />
 
-        <mod name="Dark Utilities" version="1.8.223" url="packs/ResonantRise/files/5.x/DarkUtils-1.12.2-1.8.223.jar" file="DarkUtils-1.12.2-1.8.223.jar" md5="c8cc088a1f2188ed6bf805ca6eb7e6da" download="server" type="mods" />
+        <mod name="Dark Utilities" version="1.8.226" url="packs/ResonantRise/files/5.x/DarkUtils-1.12.2-1.8.226.jar" file="DarkUtils-1.12.2-1.8.226.jar" md5="8a0016dad9624727d72bd757b384a455" download="server" type="mods" />
 
         <mod name="DeepResonance" version="1.8.0" url="packs/ResonantRise/files/5.x/deepresonance-1.12-1.8.0.jar" file="deepresonance-1.12-1.8.0.jar" md5="0fb0e11896f37e7b28602a052b394528" download="server" type="mods" />
 
         <mod name="DiscordSuite" version="2.2.4" url="packs/ResonantRise/files/5.x/DiscordSuite-2.2.4.jar" file="DiscordSuite-2.2.4.jar" md5="e72b9dc2e36150e4ada0e7dd90a631a7" download="server" type="mods" />
 
-        <mod name="Draconic Evolution" version="1.12.2-2.3.23.345" url="packs/ResonantRise/files/5.x/Draconic-Evolution-1.12.2-2.3.23.345-universal.jar" file="Draconic-Evolution-1.12.2-2.3.23.345-universal.jar" md5="7445d991ea2e71aabdda916a88e4d7f2" download="server" type="mods" />
+        <mod name="Draconic Evolution" version="1.12.2-2.3.24.349" url="packs/ResonantRise/files/5.x/Draconic-Evolution-1.12.2-2.3.24.349-universal.jar" file="Draconic-Evolution-1.12.2-2.3.24.349-universal.jar" md5="630e07626b95d7d9cd67209cb19d7507" download="server" type="mods" />
 
         <mod name="Dynamic Dynamos" version="1.12.2-1.10" url="packs/ResonantRise/files/5.x/DynamicDynamos-1.12.2-1.10.jar" file="DynamicDynamos-1.12.2-1.10.jar" md5="81a96e494762fe1bd74069a69731bb22" download="server" type="mods" />
 
@@ -252,13 +252,13 @@
 
         <mod name="ElecCore" version="1.9.452" url="packs/ResonantRise/files/5.x/ElecCore-1.12.2-1.9.452.jar" file="ElecCore-1.12.2-1.9.452.jar" md5="314facb5504dc2509db2020b8b5a5308" download="server" type="mods" />
 
-        <mod name="Ender IO" version="5.0.46" url="packs/ResonantRise/files/5.x/EnderIO-1.12.2-5.0.46.jar" file="EnderIO-1.12.2-5.0.46.jar" md5="5e53d61940020939b682d0a19b2a15c4" download="server" type="mods" />
+        <mod name="Ender IO" version="5.0.49" url="packs/ResonantRise/files/5.x/EnderIO-1.12.2-5.0.49.jar" file="EnderIO-1.12.2-5.0.49.jar" md5="ef8e4960fff3a8a204a97d251a4b154d" download="server" type="mods" />
 
-        <mod name="Ender IO endergy" version="5.0.46" url="packs/ResonantRise/files/5.x/EnderIO-endergy-1.12.2-5.0.46.jar" file="EnderIO-endergy-1.12.2-5.0.46.jar" md5="92d92e3e4b991b1eb6d41a65aa2a7e19" download="server" type="mods" />
+        <mod name="Ender IO endergy" version="5.0.50" url="packs/ResonantRise/files/5.x/EnderIO-endergy-1.12.2-5.0.50.jar" file="EnderIO-endergy-1.12.2-5.0.50.jar" md5="1cdf0c175787f62d82fa970a118a28ea" download="server" type="mods" />
 
-        <mod name="Ender IO Zoo" version="5.0.46" url="packs/ResonantRise/files/5.x/EnderIO-zoo-1.12.2-5.0.46.jar" file="EnderIO-zoo-1.12.2-5.0.46.jar" md5="9bd9205e8197899e38b8fe126e33cd04" download="server" type="mods" />
+        <mod name="Ender IO Zoo" version="5.0.50" url="packs/ResonantRise/files/5.x/EnderIO-zoo-1.12.2-5.0.50.jar" file="EnderIO-zoo-1.12.2-5.0.50.jar" md5="2929e06e73451453727aafd3cd7f41d0" download="server" type="mods" />
 
-        <mod name="EnderStorage" version="2.4.5.135" url="packs/ResonantRise/files/5.x/EnderStorage-1.12.2-2.4.5.135-universal.jar" file="EnderStorage-1.12.2-2.4.5.135-universal.jar" md5="d7d6b1991449110cfa7b1844b5811f75" download="server" type="mods" />
+        <mod name="EnderStorage" version="2.4.6.137" url="packs/ResonantRise/files/5.x/EnderStorage-1.12.2-2.4.6.137-universal.jar" file="EnderStorage-1.12.2-2.4.6.137-universal.jar" md5="c66000e24e8c11675db554c644b31bda" download="server" type="mods" />
 
         <mod name="EnderTweaker" version="1.12.2-1.1.7" url="packs/ResonantRise/files/5.x/EnderTweaker-1.12.2-1.1.7.jar" file="EnderTweaker-1.12.2-1.1.7.jar" md5="4ce1ea9da2201a4637ab30c13d5df493" download="server" type="mods" />
 
@@ -284,13 +284,13 @@
 
         <mod name="FoamFix" version="0.10.5" url="packs/ResonantRise/files/5.x/foamfix-0.10.5-1.12.2.jar" file="foamfix-0.10.5-1.12.2.jar" md5="ec2829750206833af9ee098c5ddb8e32" download="server" type="mods" />
 
-        <mod name="Forestry" version="5.8.2.387" url="packs/ResonantRise/files/5.x/forestry_1.12.2-5.8.2.387.jar" file="forestry_1.12.2-5.8.2.387.jar" md5="367a01e7ff21262fa3dfc71e8fbd7332" download="server" type="mods" />
+        <mod name="Forestry" version="5.8.2.394" url="packs/ResonantRise/files/5.x/forestry_1.12.2-5.8.2.394.jar" file="forestry_1.12.2-5.8.2.394.jar" md5="3277f6424ce0775e92af02563e5d6f1c" download="server" type="mods" />
 
-        <mod name="Forge Multipart CBE" version="2.6.1.81" url="packs/ResonantRise/files/5.x/ForgeMultipart-1.12.2-2.6.1.81-universal.jar" file="ForgeMultipart-1.12.2-2.6.1.81-universal.jar" md5="c28c8fc458803154aca235be22dd3102" download="server" type="mods" />
+        <mod name="Forge Multipart CBE" version="2.6.2.83" url="packs/ResonantRise/files/5.x/ForgeMultipart-1.12.2-2.6.2.83-universal.jar" file="ForgeMultipart-1.12.2-2.6.2.83-universal.jar" md5="e45e04bc38dc373aaef0415c2e2d441d" download="server" type="mods" />
 
-        <mod name="FTB Library" version="5.4.3.130" url="packs/ResonantRise/files/5.x/FTBLib-5.4.3.130.jar" file="FTBLib-5.4.3.130.jar" md5="59277aa4c2de5f38dc61c4c113beea6a" download="server" type="mods" />
+        <mod name="FTB Library" version="5.4.3.131" url="packs/ResonantRise/files/5.x/FTBLib-5.4.3.131.jar" file="FTBLib-5.4.3.131.jar" md5="94fcdb901594c25a35ec458f99bd78db" download="server" type="mods" />
 
-        <mod name="FTB Utilities" version="5.4.0.100" url="packs/ResonantRise/files/5.x/FTBUtilities-5.4.0.100.jar" file="FTBUtilities-5.4.0.100.jar" md5="6a1f43828fff892220a8b76d7135d771" download="server" type="mods" />
+        <mod name="FTB Utilities" version="5.4.0.101" url="packs/ResonantRise/files/5.x/FTBUtilities-5.4.0.101.jar" file="FTBUtilities-5.4.0.101.jar" md5="af0d7ca5d0e5533de4564bac50cfffa7" download="server" type="mods" />
 
         <mod name="FTB Utilities: Backups" version="1.0.0.5" url="packs/ResonantRise/files/5.x/FTBUtilitiesBackups-1.0.0.5.jar" file="FTBUtilitiesBackups-1.0.0.5.jar" md5="075328d2801250e6f608a46a94cc1068" download="server" type="mods" />
 
@@ -312,7 +312,7 @@
 
         <mod name="Integrated Crafting" version="1.12.2-1.0.8" url="packs/ResonantRise/files/5.x/IntegratedCrafting-1.12.2-1.0.8.jar" file="IntegratedCrafting-1.12.2-1.0.8.jar" md5="c1aff93e2ddcedda892e338dd1cc0950" download="server" type="mods" />
 
-        <mod name="Integrated Dynamics" version="1.12.2-1.0.17" url="packs/ResonantRise/files/5.x/IntegratedDynamics-1.12.2-1.0.17.jar" file="IntegratedDynamics-1.12.2-1.0.17.jar" md5="70250987353014856ba68e18425bc5b6" download="server" type="mods" />
+        <mod name="Integrated Dynamics" version="1.12.2-1.0.18" url="packs/ResonantRise/files/5.x/IntegratedDynamics-1.12.2-1.0.18.jar" file="IntegratedDynamics-1.12.2-1.0.18.jar" md5="59d36f53c18466967e1674a71cf99de2" download="server" type="mods" />
 
         <mod name="Integrated Terminals" version="1.12.2-1.0.9" url="packs/ResonantRise/files/5.x/IntegratedTerminals-1.12.2-1.0.9.jar" file="IntegratedTerminals-1.12.2-1.0.9.jar" md5="ab938abfaf435eeaf801f09c35208d0f" download="server" type="mods" />
 
@@ -330,7 +330,7 @@
 
         <mod name="Just Enough Energistics" version="1.12.2-1.0.7" url="packs/ResonantRise/files/5.x/JustEnoughEnergistics-1.12.2-1.0.7.jar" file="JustEnoughEnergistics-1.12.2-1.0.7.jar" md5="d4e3b8bad7e42e1d0baed63dd32538af" download="server" type="mods" />
 
-        <mod name="Just Enough Items" version="4.15.0.285" url="packs/ResonantRise/files/5.x/jei_1.12.2-4.15.0.285.jar" file="jei_1.12.2-4.15.0.285.jar" md5="6863242ea1967af9cb562be7bae4a16a" download="server" type="mods" />
+        <mod name="Just Enough Items" version="4.15.0.289" url="packs/ResonantRise/files/5.x/jei_1.12.2-4.15.0.289.jar" file="jei_1.12.2-4.15.0.289.jar" md5="cf78404df6bbacbf8903baaa24379949" download="server" type="mods" />
 
         <mod name="Just Enough Resources" version="0.9.2.60" url="packs/ResonantRise/files/5.x/JustEnoughResources-1.12.2-0.9.2.60.jar" file="JustEnoughResources-1.12.2-0.9.2.60.jar" md5="87a4666549a60d8fb423883dd4ee6232" download="server" type="mods" />
 
@@ -348,11 +348,11 @@
 
         <mod name="MCMultiPart" version="2.5.3" url="packs/ResonantRise/files/5.x/MCMultiPart-2.5.3.jar" file="MCMultiPart-2.5.3.jar" md5="47987d111d6f1e48403bc3cbb23f5503" download="server" type="mods" />
 
-        <mod name="Mekanism" version="1.12.2-9.8.0.381" url="packs/ResonantRise/files/5.x/Mekanism-1.12.2-9.8.0.381.jar" file="Mekanism-1.12.2-9.8.0.381.jar" md5="c0654836901b90df3607e14ec09355db" download="server" type="mods" />
+        <mod name="Mekanism" version="1.12.2-9.8.1.383" url="packs/ResonantRise/files/5.x/Mekanism-1.12.2-9.8.1.383.jar" file="Mekanism-1.12.2-9.8.1.383.jar" md5="d5ec8eaf21f89bfb2c50cacb9efb1342" download="server" type="mods" />
 
-        <mod name="Mekanism: Generators" version="1.12.2-9.8.0.381" url="packs/ResonantRise/files/5.x/MekanismGenerators-1.12.2-9.8.0.381.jar" file="MekanismGenerators-1.12.2-9.8.0.381.jar" md5="f6a695a6c99d54ac14e4128c841010a6" download="server" type="mods" />
+        <mod name="Mekanism: Generators" version="1.12.2-9.8.1.383" url="packs/ResonantRise/files/5.x/MekanismGenerators-1.12.2-9.8.1.383.jar" file="MekanismGenerators-1.12.2-9.8.1.383.jar" md5="191375630be7b5785bf6639a4186c754" download="server" type="mods" />
 
-        <mod name="MineMenu" version="1.12.2-1.6.10" url="packs/ResonantRise/files/5.x/MineMenu-1.12.2-1.6.10-universal.jar" file="MineMenu-1.12.2-1.6.10-universal.jar" md5="5e9070f9c1aeeda1c1ed798c141815ce" download="server" type="mods" />
+        <mod name="MineMenu" version="1.12.2-1.6.11" url="packs/ResonantRise/files/5.x/MineMenu-1.12.2-1.6.11-universal.jar" file="MineMenu-1.12.2-1.6.11-universal.jar" md5="4fade291993467f426a0b6f948c4a6b6" download="server" type="mods" />
 
         <mod name="mob_grinding_utils" version="0.3.13" url="packs/ResonantRise/files/5.x/MobGrindingUtils-0.3.13.jar" file="MobGrindingUtils-0.3.13.jar" md5="a93bd7ac7c3fe91626308c9636ba0e46" download="server" type="mods" />
 
@@ -374,7 +374,7 @@
 
         <mod name="ModPack Basic Tools" version="1.4.11" url="packs/ResonantRise/files/5.x/mpbasic-1.12.2-1.4.11.jar" file="mpbasic-1.12.2-1.4.11.jar" md5="f74a81e8b8c283e3969dc1c9827ada80" download="server" type="mods" />
 
-        <mod name="MrTJPCore" version="2.1.3.35" url="packs/ResonantRise/files/5.x/MrTJPCore-1.12.2-2.1.3.35-universal.jar" file="MrTJPCore-1.12.2-2.1.3.35-universal.jar" md5="1442cc118c3c694121bf717a1d5b95c1" download="server" type="mods" />
+        <mod name="MrTJPCore" version="2.1.4.43" url="packs/ResonantRise/files/5.x/MrTJPCore-1.12.2-2.1.4.43-universal.jar" file="MrTJPCore-1.12.2-2.1.4.43-universal.jar" md5="edff42a77c41f9191722b5b794e37668" download="server" type="mods" />
         
         <mod name="MTLib" version="3.0.6" url="packs/ResonantRise/files/5.x/MTLib-3.0.6.jar" file="MTLib-3.0.6.jar" md5="b46748362c046d70b821121331246aa5" download="server" type="mods" />
 
@@ -384,7 +384,7 @@
 
         <mod name="Mystical Agriculture" version="1.7.5" url="packs/ResonantRise/files/5.x/MysticalAgriculture-1.12.2-1.7.5.jar" file="MysticalAgriculture-1.12.2-1.7.5.jar" md5="b7b81747d20baf1c5547ee302bad1420" download="server" type="mods" />
 
-        <mod name="Mystical Lib" version="1.3.1" url="packs/ResonantRise/files/5.x/mysticallib-1.12.2-1.3.1.jar" file="mysticallib-1.12.2-1.3.1.jar" md5="b3aa9c5c367acf32b32d94be46aa9357" download="server" type="mods" />
+        <mod name="Mystical Lib" version="1.3.3" url="packs/ResonantRise/files/5.x/mysticallib-1.12.2-1.3.3.jar" file="mysticallib-1.12.2-1.3.3.jar" md5="4bc7e3ce363f0b252e7e7e3c6da82ec6" download="server" type="mods" />
 
         <mod name="Natura" version="1.12.2-4.3.2.69" url="packs/ResonantRise/files/5.x/natura-1.12.2-4.3.2.69.jar" file="natura-1.12.2-4.3.2.69.jar" md5="2310e87658a493970605d416a504e0f9" download="server" type="mods" />
 
@@ -406,39 +406,39 @@
 
         <mod name="Phosphor Lighting Engine" version="1.12.2-0.2.6+build50" url="packs/ResonantRise/files/5.x/phosphor-1.12.2-0.2.6build50-universal.jar" file="phosphor-1.12.2-0.2.6build50-universal.jar" md5="9892af4ac4f8ca4222138a245592227c" download="server" type="mods" />
 
-        <mod name="Placebo" version="1.12.2-1.5.1" url="packs/ResonantRise/files/5.x/Placebo-1.12.2-1.5.1.jar" file="Placebo-1.12.2-1.5.1.jar" md5="64aa72773ca40b3f79cc709f9ddedecb" download="server" type="mods" />
+        <mod name="Placebo" version="1.12.2-1.6.0" url="packs/ResonantRise/files/5.x/Placebo-1.12.2-1.6.0.jar" file="Placebo-1.12.2-1.6.0.jar" md5="a9ecfa296b2b1203ed5a68ed6c01833a" download="server" type="mods" />
 
         <mod name="Primitive Mobs" version="1.2.3a" url="packs/ResonantRise/files/5.x/primitivemobs-1.2.3a.jar" file="primitivemobs-1.2.3a.jar" md5="51af727bbf9957d629a81cf88984f980" download="server" type="mods" />
 
-        <mod name="ProjectRed Core" version="4.9.1.92" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.1.92-Base.jar" file="ProjectRed-1.12.2-4.9.1.92-Base.jar" md5="d70bc67baad5c7739f39b88f22182450" download="server" type="mods" />
+        <mod name="ProjectRed Core" version="4.9.4.120" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.4.120-Base.jar" file="ProjectRed-1.12.2-4.9.4.120-Base.jar" md5="1380ad8d4ffbc3f1189078473f6f10f9" download="server" type="mods" />
 
-        <mod name="ProjectRed Compatibility" version="4.9.1.92" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.1.92-compat.jar" file="ProjectRed-1.12.2-4.9.1.92-compat.jar" md5="850041255fa6b555f4f4c53c26dc9f08" download="server" type="mods" />
+        <mod name="ProjectRed Compatibility" version="4.9.4.120" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.4.120-compat.jar" file="ProjectRed-1.12.2-4.9.4.120-compat.jar" md5="56c34f44395c918926fc5751f82d70b9" download="server" type="mods" />
 
-        <mod name="ProjectRed Fabrication" version="4.9.1.92" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.1.92-fabrication.jar" file="ProjectRed-1.12.2-4.9.1.92-fabrication.jar" md5="30830faa0777da6f0104acd3aaf336ce" download="server" type="mods" />
+        <mod name="ProjectRed Fabrication" version="4.9.4.120" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.4.120-fabrication.jar" file="ProjectRed-1.12.2-4.9.4.120-fabrication.jar" md5="eabf2010d23f3cfc583cd809a7b0febf" download="server" type="mods" />
 
-        <mod name="ProjectRed Transmission" version="4.9.1.92" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.1.92-integration.jar" file="ProjectRed-1.12.2-4.9.1.92-integration.jar" md5="b09e19b2005c2c48fd3001703d3e425d" download="server" type="mods" />
+        <mod name="ProjectRed Transmission" version="4.9.4.120" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.4.120-integration.jar" file="ProjectRed-1.12.2-4.9.4.120-integration.jar" md5="0d8259b233ab89d2171b6337167e7e6f" download="server" type="mods" />
 
-        <mod name="ProjectRed Illumination" version="4.9.1.92" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.1.92-lighting.jar" file="ProjectRed-1.12.2-4.9.1.92-lighting.jar" md5="730390ea1cb64c8bc50c98bcd8ed6b8c" download="server" type="mods" />
+        <mod name="ProjectRed Illumination" version="4.9.4.120" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.4.120-lighting.jar" file="ProjectRed-1.12.2-4.9.4.120-lighting.jar" md5="b9ead4f7e70dd4c0f68cd8c690249753" download="server" type="mods" />
 
-        <mod name="Project Red - Mechanical" version="4.9.1.92" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.1.92-mechanical.jar" file="ProjectRed-1.12.2-4.9.1.92-mechanical.jar" md5="206c601a3800e3ff0e21763f2e9e8b9c" download="server" type="mods" />
+        <mod name="ProjectRed Expansion" version="4.9.4.120" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.4.120-mechanical.jar" file="ProjectRed-1.12.2-4.9.4.120-mechanical.jar" md5="cafa40d180f86081e748d15ba5a0ffc9" download="server" type="mods" />
 
-        <mod name="ProjectRed Exploration" version="4.9.1.92" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.1.92-world.jar" file="ProjectRed-1.12.2-4.9.1.92-world.jar" md5="6d048f2e2eff31376f0f6668e761f5d5" download="server" type="mods" />
+        <mod name="ProjectRed Exploration" version="4.9.4.120" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.4.120-world.jar" file="ProjectRed-1.12.2-4.9.4.120-world.jar" md5="2ac24154b87ff4fbc97e5330c2ca11f7" download="server" type="mods" />
 
         <mod name="Psi" version="r1.1-77" url="packs/ResonantRise/files/5.x/Psi-r1.1-77.jar" file="Psi-r1.1-77.jar" md5="c12d66fcaff082f7231a7f97cb0199cd" download="server" type="mods" />
 
-        <mod name="QuantumStorage" version="4.6.8" url="packs/ResonantRise/files/5.x/QuantumStorage-1.12-4.6.8.jar" file="QuantumStorage-1.12-4.6.8.jar" md5="23653cd5f1ce80616c67c68169a0926c" download="server" type="mods" />
+        <mod name="QuantumStorage" version="4.7.0" url="packs/ResonantRise/files/5.x/QuantumStorage-1.12-4.7.0.jar" file="QuantumStorage-1.12-4.7.0.jar" md5="4da452dfc28431b56e76e9ab2431df2c" download="server" type="mods" />
 
-        <mod name="Quark" version="r1.5-168" url="packs/ResonantRise/files/5.x/Quark-r1.5-168.jar" file="Quark-r1.5-168.jar" md5="afc7613c76f7058b19853436954c982d" download="server" type="mods" />
+        <mod name="Quark" version="r1.6-177" url="packs/ResonantRise/files/5.x/Quark-r1.6-177.jar" file="Quark-r1.6-177.jar" md5="db3f8b818a99d3155194d63ae8919bfa" download="server" type="mods" />
 
         <mod name="Quark Oddities" version="1.12.2" url="packs/ResonantRise/files/5.x/QuarkOddities-1.12.2.jar" file="QuarkOddities-1.12.2.jar" md5="6e16630baca6837163dbee699ef3cf4b" download="server" type="mods" />
 
-        <mod name="Random Things" version="4.2.7.2" url="packs/ResonantRise/files/5.x/RandomThings-MC1.12.2-4.2.7.2.jar" file="RandomThings-MC1.12.2-4.2.7.2.jar" md5="0fe5f054e13fa88520c220a8a6d66651" download="server" type="mods" />
+        <mod name="Random Things" version="4.2.7.3" url="packs/ResonantRise/files/5.x/RandomThings-MC1.12.2-4.2.7.3.jar" file="RandomThings-MC1.12.2-4.2.7.3.jar" md5="46851d970cc78a6354ca70139e3fe8f3" download="server" type="mods" />
 
-        <mod name="RandomPatches" version="1.12.2-1.15.1.0" url="packs/ResonantRise/files/5.x/randompatches-1.12.2-1.15.1.0.jar" file="randompatches-1.12.2-1.15.1.0.jar" md5="3da8303cc4663f2acacb43376c489b15" download="server" type="mods" />
+        <mod name="RandomPatches" version="1.12.2-1.18.1.1" url="packs/ResonantRise/files/5.x/randompatches-1.12.2-1.18.1.1.jar" file="randompatches-1.12.2-1.18.1.1.jar" md5="232b149e3c48b1505bca931d61fc404b" download="server" type="mods" />
 
         <mod name="ReAuth" version="3.6.0" url="packs/ResonantRise/files/5.x/reauth-3.6.0.jar" file="reauth-3.6.0.jar" md5="6024686e40df10b8739042ea2dce7f1a" download="server" type="mods" />
 
-        <mod name="Reborn Core" version="3.14.1.457" url="packs/ResonantRise/files/5.x/RebornCore-1.12.2-3.14.1.457-universal.jar" file="RebornCore-1.12.2-3.14.1.457-universal.jar" md5="83d3f434ab9c13b733904b4ad33590e1" download="server" type="mods" />
+        <mod name="Reborn Core" version="3.16.0.469" url="packs/ResonantRise/files/5.x/RebornCore-1.12.2-3.16.0.469-universal.jar" file="RebornCore-1.12.2-3.16.0.469-universal.jar" md5="a11fbfbe8a9f22aaa6878f2e52c620c1" download="server" type="mods" />
 
         <mod name="Redstone Arsenal" version="2.6.3.18" url="packs/ResonantRise/files/5.x/RedstoneArsenal-1.12.2-2.6.3.18-universal.jar" file="RedstoneArsenal-1.12.2-2.6.3.18-universal.jar" md5="3bbe81cebe761061b8d16f6c981e30b4" download="server" type="mods" />
 
@@ -460,13 +460,13 @@
 
         <mod name="Shadowfacts&apos; Forgelin" version="1.8.3" url="packs/ResonantRise/files/5.x/Forgelin-1.8.3.jar" file="Forgelin-1.8.3.jar" md5="d729a4a101a5687329526f6cb7adc64d" download="server" type="mods" />
 
-        <mod name="Simply Jetpacks 2" version="2.2.12.65" url="packs/ResonantRise/files/5.x/SimplyJetpacks2-1.12.2-2.2.12.65.jar" file="SimplyJetpacks2-1.12.2-2.2.12.65.jar" md5="7a41df833fed6109aeacb5aaa9b08ea0" download="server" type="mods" />
+        <mod name="Simply Jetpacks 2" version="2.2.13.66" url="packs/ResonantRise/files/5.x/SimplyJetpacks2-1.12.2-2.2.13.66.jar" file="SimplyJetpacks2-1.12.2-2.2.13.66.jar" md5="9d89ff880bde5b1e99c3970b170325af" download="server" type="mods" />
 
         <mod name="SonarCore" version="1.12.2-5.0.19-20" url="packs/ResonantRise/files/5.x/sonarcore-1.12.2-5.0.19-20.jar" file="sonarcore-1.12.2-5.0.19-20.jar" md5="02c6264bdfa66c5895aed1d739109420" download="server" type="mods" />
 
         <mod name="Storage Drawers" version="5.3.8" url="packs/ResonantRise/files/5.x/StorageDrawers-1.12.2-5.3.8.jar" file="StorageDrawers-1.12.2-5.3.8.jar" md5="ab008fc9f41cd9e215b4c8d5d7e5be6e" download="server" type="mods" />
 
-        <mod name="Tech Reborn" version="2.23.2.1007" url="packs/ResonantRise/files/5.x/TechReborn-1.12.2-2.23.2.1007-universal.jar" file="TechReborn-1.12.2-2.23.2.1007-universal.jar" md5="4f9d1890180892a1bca5294f8cadd4db" download="server" type="mods" />
+        <mod name="Tech Reborn" version="2.24.1.1017" url="packs/ResonantRise/files/5.x/TechReborn-1.12.2-2.24.1.1017-universal.jar" file="TechReborn-1.12.2-2.24.1.1017-universal.jar" md5="0eb4e8f0950a04835992cec61a30cce8" download="server" type="mods" />
 
         <mod name="Tesla Core Lib" version="1.12.2-1.0.15" url="packs/ResonantRise/files/5.x/tesla-core-lib-1.12.2-1.0.15.jar" file="tesla-core-lib-1.12.2-1.0.15.jar" md5="b0214b0a90243374c6bd89a023f2b26e" download="server" type="mods" />
 
@@ -476,7 +476,7 @@
 
         <mod name="The One Probe" version="1.12-1.4.28" url="packs/ResonantRise/files/5.x/theoneprobe-1.12-1.4.28.jar" file="theoneprobe-1.12-1.4.28.jar" md5="63849a13a822b3b56308245eb8074a7e" download="server" type="mods" />
 
-        <mod name="The Twilight Forest" version="3.8.689" url="packs/ResonantRise/files/5.x/twilightforest-1.12.2-3.8.689-universal.jar" file="twilightforest-1.12.2-3.8.689-universal.jar" md5="d9a9e3e5dd851f5cbb50b72aab5e6037" download="server" type="mods" />
+        <mod name="The Twilight Forest" version="3.9.984" url="packs/ResonantRise/files/5.x/twilightforest-1.12.2-3.9.984-universal.jar" file="twilightforest-1.12.2-3.9.984-universal.jar" md5="c4080679da4abfcef87936301a45f740" download="server" type="mods" />
 
         <mod name="Thermal Cultivation" version="0.3.3.12" url="packs/ResonantRise/files/5.x/ThermalCultivation-1.12.2-0.3.3.12-universal.jar" file="ThermalCultivation-1.12.2-0.3.3.12-universal.jar" md5="a6993f3947a833582909c7e31325987c" download="server" type="mods" />
 
@@ -494,7 +494,7 @@
 
         <mod name="Tinkers&apos; Addons" version="1.0.7" url="packs/ResonantRise/files/5.x/TinkersAddons-1.12.1-1.0.7.jar" file="TinkersAddons-1.12.1-1.0.7.jar" md5="798f4dd5eea7b7f62250c7b3e9ce2713" download="server" type="mods" />
 
-        <mod name="Tinkers&apos; Complement" version="1.12.2-0.3.1" url="packs/ResonantRise/files/5.x/TinkersComplement-1.12.2-0.3.1.jar" file="TinkersComplement-1.12.2-0.3.1.jar" md5="c41ec072895b6f1bac06a6a439bdf36c" download="server" type="mods" />
+        <mod name="Tinkers&apos; Complement" version="1.12.2-0.4.2" url="packs/ResonantRise/files/5.x/TinkersComplement-1.12.2-0.4.2.jar" file="TinkersComplement-1.12.2-0.4.2.jar" md5="81ea31d88f361c7bf9d5b52b0a8e540c" download="server" type="mods" />
 
         <mod name="Tinkers Tool Leveling" version="1.1.0" url="packs/ResonantRise/files/5.x/TinkerToolLeveling-1.12.2-1.1.0.jar" file="TinkerToolLeveling-1.12.2-1.1.0.jar" md5="f9253fe86c6649afbf49d221c71ba19a" download="server" type="mods" />
 
@@ -504,7 +504,7 @@
 
         <mod name="TorchMaster" version="1.7.1.74" url="packs/ResonantRise/files/5.x/torchmaster_1.12.2-1.7.1.74.jar" file="torchmaster_1.12.2-1.7.1.74.jar" md5="14de6fbebbfc54bbc350a71dcc0359dc" download="server" type="mods" />
 
-        <mod name="Translocators" version="2.5.1.77" url="packs/ResonantRise/files/5.x/Translocators-1.12.2-2.5.1.77-universal.jar" file="Translocators-1.12.2-2.5.1.77-universal.jar" md5="c04e6bdd5f61f26e824ac47b97fde260" download="server" type="mods" />
+        <mod name="Translocators" version="2.5.2.81" url="packs/ResonantRise/files/5.x/Translocators-1.12.2-2.5.2.81-universal.jar" file="Translocators-1.12.2-2.5.2.81-universal.jar" md5="bea9b18295a2b7762dedd938f447353c" download="server" type="mods" />
 
         <mod name="Traverse" version="1.12.2-1.6.0-69" url="packs/ResonantRise/files/5.x/Traverse-1.12.2-1.6.0-69.jar" file="Traverse-1.12.2-1.6.0-69.jar" md5="3cc748cd333cab2e5f8132a89cd40b48" download="server" type="mods" />
 
@@ -516,15 +516,15 @@
 
         <mod name="Wireless Crafting Terminal 2" version="1.12.2-3.12.93" url="packs/ResonantRise/files/5.x/WirelessCraftingTerminal-1.12.2-3.12.93.jar" file="WirelessCraftingTerminal-1.12.2-3.12.93.jar" md5="7e46208a35505f189f6346a1c17c34fd" download="server" type="mods" />
 
-        <mod name="WirelessRedstone-CBE" version="2.3.1.30" url="packs/ResonantRise/files/5.x/WR-CBE-1.12.2-2.3.1.30-universal.jar" file="WR-CBE-1.12.2-2.3.1.30-universal.jar" md5="aaf2999992613ae5bed991d97b214467" download="server" type="mods" />
+        <mod name="WirelessRedstone-CBE" version="2.3.2.33" url="packs/ResonantRise/files/5.x/WR-CBE-1.12.2-2.3.2.33-universal.jar" file="WR-CBE-1.12.2-2.3.2.33-universal.jar" md5="2305b3f0d60cd55510c4dd08abdb3656" download="server" type="mods" />
         
-        <mod name="Woot" version="1.12.2-1.4.10" url="packs/ResonantRise/files/5.x/woot-1.12.2-1.4.10.jar" file="woot-1.12.2-1.4.10.jar" md5="127999ba1124ace82f18159cdc7c52f1" download="server" type="mods" />
+        <mod name="Woot" version="1.12.2-1.4.11" url="packs/ResonantRise/files/5.x/woot-1.12.2-1.4.11.jar" file="woot-1.12.2-1.4.11.jar" md5="5337f3f9c93f9da1f59797c2275fa288" download="server" type="mods" />
 
         <mod name="WrapUp" version="1.1.3" url="packs/ResonantRise/files/5.x/WrapUp-1.12-1.1.3.jar" file="WrapUp-1.12-1.1.3.jar" md5="d6e426631f7d9eb1f86ef0523870811a" download="server" type="mods" />
 
-        <mod name="Xaero&apos;s Minimap" version="1.17.4" url="packs/ResonantRise/files/5.x/Xaeros_Minimap_1.17.4_Forge_1.12.jar" file="Xaeros_Minimap_1.17.4_Forge_1.12.jar" md5="fd7234b33b80d5281997cea302de7aed" download="server" type="mods" />
+        <mod name="Xaero&apos;s Minimap" version="1.17.7" url="packs/ResonantRise/files/5.x/Xaeros_Minimap_1.17.7_Forge_1.12.jar" file="Xaeros_Minimap_1.17.7_Forge_1.12.jar" md5="cae015ce4480820599d99295ca8ac4a4" download="server" type="mods" />
 
-        <mod name="Xaero&apos;s World Map" version="1.4.3" url="packs/ResonantRise/files/5.x/XaerosWorldMap_1.4.3_Forge_1.12.jar" file="XaerosWorldMap_1.4.3_Forge_1.12.jar" md5="59740d2b6efc88a276cd7f247c319a96" download="server" type="mods" />
+        <mod name="Xaero&apos;s World Map" version="1.4.7" url="packs/ResonantRise/files/5.x/XaerosWorldMap_1.4.7_Forge_1.12.jar" file="XaerosWorldMap_1.4.7_Forge_1.12.jar" md5="93a225072a09bdc94686854373e18a18" download="server" type="mods" />
 
         <mod name="XNet" version="1.12-1.8.2" url="packs/ResonantRise/files/5.x/xnet-1.12-1.8.2.jar" file="xnet-1.12-1.8.2.jar" md5="13935bce3f6b827aa19567a81e5be38f" download="server" type="mods" />
 
