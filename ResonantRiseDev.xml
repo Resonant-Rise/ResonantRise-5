@@ -252,7 +252,7 @@
 
         <mod name="ElecCore" version="1.9.452" url="packs/ResonantRise/files/5.x/ElecCore-1.12.2-1.9.452.jar" file="ElecCore-1.12.2-1.9.452.jar" md5="314facb5504dc2509db2020b8b5a5308" download="server" type="mods" />
 
-        <mod name="Ender IO" version="5.0.49" url="packs/ResonantRise/files/5.x/EnderIO-1.12.2-5.0.49.jar" file="EnderIO-1.12.2-5.0.49.jar" md5="ef8e4960fff3a8a204a97d251a4b154d" download="server" type="mods" />
+        <mod name="Ender IO" version="5.0.50" url="packs/ResonantRise/files/5.x/EnderIO-1.12.2-5.0.50.jar" file="EnderIO-1.12.2-5.0.50.jar" md5="d0b5de7fd97aaf791f4a17bd088e1450" download="server" type="mods" />
 
         <mod name="Ender IO endergy" version="5.0.50" url="packs/ResonantRise/files/5.x/EnderIO-endergy-1.12.2-5.0.50.jar" file="EnderIO-endergy-1.12.2-5.0.50.jar" md5="1cdf0c175787f62d82fa970a118a28ea" download="server" type="mods" />
 
