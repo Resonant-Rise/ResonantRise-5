@@ -370,9 +370,9 @@
 
         <mod name="Mouse Tweaks" version="2.10" url="packs/ResonantRise/files/5.x/MouseTweaks-2.10-mc1.12.2.jar" file="MouseTweaks-2.10-mc1.12.2.jar" md5="e4dcbf47c3f99a780681e3a3a9fcf9e9" download="server" type="mods" />
 
-        <mod name="ModPack Utilities" version="1.5.7" url="packs/ResonantRise/files/5.x/MPUtils-1.12.2-1.5.7.jar" file="MPUtils-1.12.2-1.5.7.jar" md5="c41edc75080c464b591ceb7aad690f6d" download="server" type="mods" />
+        <!-- <mod name="ModPack Utilities" version="1.5.7" url="packs/ResonantRise/files/5.x/MPUtils-1.12.2-1.5.7.jar" file="MPUtils-1.12.2-1.5.7.jar" md5="c41edc75080c464b591ceb7aad690f6d" download="server" type="mods" /> -->
 
-        <mod name="ModPack Basic Tools" version="1.4.11" url="packs/ResonantRise/files/5.x/mpbasic-1.12.2-1.4.11.jar" file="mpbasic-1.12.2-1.4.11.jar" md5="f74a81e8b8c283e3969dc1c9827ada80" download="server" type="mods" />
+        <!-- <mod name="ModPack Basic Tools" version="1.4.11" url="packs/ResonantRise/files/5.x/mpbasic-1.12.2-1.4.11.jar" file="mpbasic-1.12.2-1.4.11.jar" md5="f74a81e8b8c283e3969dc1c9827ada80" download="server" type="mods" /> -->
 
         <mod name="MrTJPCore" version="2.1.4.43" url="packs/ResonantRise/files/5.x/MrTJPCore-1.12.2-2.1.4.43-universal.jar" file="MrTJPCore-1.12.2-2.1.4.43-universal.jar" md5="edff42a77c41f9191722b5b794e37668" download="server" type="mods" />
         
@@ -428,9 +428,9 @@
 
         <mod name="QuantumStorage" version="4.7.0" url="packs/ResonantRise/files/5.x/QuantumStorage-1.12-4.7.0.jar" file="QuantumStorage-1.12-4.7.0.jar" md5="4da452dfc28431b56e76e9ab2431df2c" download="server" type="mods" />
 
-        <mod name="Quark" version="r1.6-177" url="packs/ResonantRise/files/5.x/Quark-r1.6-177.jar" file="Quark-r1.6-177.jar" md5="db3f8b818a99d3155194d63ae8919bfa" download="server" type="mods" />
+        <!-- <mod name="Quark" version="r1.6-177" url="packs/ResonantRise/files/5.x/Quark-r1.6-177.jar" file="Quark-r1.6-177.jar" md5="db3f8b818a99d3155194d63ae8919bfa" download="server" type="mods" /> -->
 
-        <mod name="Quark Oddities" version="1.12.2" url="packs/ResonantRise/files/5.x/QuarkOddities-1.12.2.jar" file="QuarkOddities-1.12.2.jar" md5="6e16630baca6837163dbee699ef3cf4b" download="server" type="mods" />
+        <!-- <mod name="Quark Oddities" version="1.12.2" url="packs/ResonantRise/files/5.x/QuarkOddities-1.12.2.jar" file="QuarkOddities-1.12.2.jar" md5="6e16630baca6837163dbee699ef3cf4b" download="server" type="mods" /> -->
 
         <mod name="Random Things" version="4.2.7.3" url="packs/ResonantRise/files/5.x/RandomThings-MC1.12.2-4.2.7.3.jar" file="RandomThings-MC1.12.2-4.2.7.3.jar" md5="46851d970cc78a6354ca70139e3fe8f3" download="server" type="mods" />
 
