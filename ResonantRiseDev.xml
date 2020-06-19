@@ -296,9 +296,11 @@
 
         <mod name="Guide-API" version="1.12-2.1.8-63" url="packs/ResonantRise/files/5.x/Guide-API-1.12-2.1.8-63.jar" file="Guide-API-1.12-2.1.8-63.jar" md5="117d3d825059fceb0c1d04f8701beb00" download="server" type="mods" />
 
+        <mod name="GunpowderLib" version="1.12.2-1.0" url="packs/ResonantRise/files/5.x/GunpowderLib-1.12.2-1.0.jar" file="GunpowderLib-1.12.2-1.0.jar" md5="3db9feb2e7599dcbca3807341f97b592" download="server" type="mods" />
+
         <mod name="iChunUtil" version="1.12.2-7.2.2" url="packs/ResonantRise/files/5.x/iChunUtil-1.12.2-7.2.2.jar" file="iChunUtil-1.12.2-7.2.2.jar" md5="bf13a2044ece544b449c7dc6f8aa40af" download="server" type="mods" />
 
-        <mod name="Immersive Engineering" version="ImmersiveEngineering-0.14-102.jar" url="packs/ResonantRise/files/5.x/ImmersiveEngineering-0.14-102.jar" file="ImmersiveEngineering-0.14-102.jar" md5="98cefa69401f5c384453cee5528821a3" download="server" type="mods" />
+        <mod name="Immersive Engineering" version="0.12-98" url="packs/ResonantRise/files/5.x/ImmersiveEngineering-0.12-98.jar" file="ImmersiveEngineering-0.12-98.jar" md5="affce9a7f7cb9ab257135da89314e07e" download="server" type="mods" />
 
         <mod name="Immersive Petroleum" version="1.1.9" url="packs/ResonantRise/files/5.x/immersivepetroleum-1.12.2-1.1.9.jar" file="immersivepetroleum-1.12.2-1.1.9.jar" md5="57ba127778e579d10d705f9f8359d2e0" download="server" type="mods" />
 
