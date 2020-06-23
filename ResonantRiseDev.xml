@@ -248,11 +248,11 @@
 
         <mod name="ElecCore" version="1.9.453" url="packs/ResonantRise/files/5.x/ElecCore-1.12.2-1.9.453.jar" file="ElecCore-1.12.2-1.9.453.jar" md5="031ab266b23dc6d6d8b712fb286779af" download="server" type="mods" />
 
-        <mod name="Ender IO" version="5.2.56" url="packs/ResonantRise/files/5.x/EnderIO-1.12.2-5.2.56.jar" file="EnderIO-1.12.2-5.2.56.jar" md5="675f2a86ceb9809c105a58b1af1f868f" download="server" type="mods" />
+        <mod name="Ender IO" version="5.2.57" url="packs/ResonantRise/files/5.x/EnderIO-1.12.2-5.2.57.jar" file="EnderIO-1.12.2-5.2.57.jar" md5="e6bf0af7b062d1d5e290e097cb76b807" download="server" type="mods" />
 
-        <mod name="Ender IO endergy" version="5.2.56" url="packs/ResonantRise/files/5.x/EnderIO-endergy-1.12.2-5.2.56.jar" file="EnderIO-endergy-1.12.2-5.2.56.jar" md5="04c1d1e4dfb18a4824690c86b7a87845" download="server" type="mods" />
+        <mod name="Ender IO endergy" version="5.2.57" url="packs/ResonantRise/files/5.x/EnderIO-endergy-1.12.2-5.2.57.jar" file="EnderIO-endergy-1.12.2-5.2.57.jar" md5="918bad51890027345a98104ae21d4a04" download="server" type="mods" />
 
-        <mod name="Ender IO Zoo" version="5.2.56" url="packs/ResonantRise/files/5.x/EnderIO-zoo-1.12.2-5.2.56.jar" file="EnderIO-zoo-1.12.2-5.2.56.jar" md5="65d093f26abbf2011a7ad2da4cf3223f" download="server" type="mods" />
+        <mod name="Ender IO Zoo" version="5.2.57" url="packs/ResonantRise/files/5.x/EnderIO-zoo-1.12.2-5.2.57.jar" file="EnderIO-zoo-1.12.2-5.2.57.jar" md5="b0da232c8d447421ca58a9f42b8f85d7" download="server" type="mods" />
 
         <mod name="EnderStorage" version="2.4.6.137" url="packs/ResonantRise/files/5.x/EnderStorage-1.12.2-2.4.6.137-universal.jar" file="EnderStorage-1.12.2-2.4.6.137-universal.jar" md5="c66000e24e8c11675db554c644b31bda" download="server" type="mods" />
 
@@ -286,9 +286,9 @@
 
         <mod name="FTB Backups" version="1.1.0.1" url="packs/ResonantRise/files/5.x/FTBBackups-1.1.0.1.jar" file="FTBBackups-1.1.0.1.jar" md5="932a6981ff08c35bbdf83bb9f7af8d17" download="server" type="mods" />
 
-        <mod name="FTB Library" version="5.4.7.0" url="packs/ResonantRise/files/5.x/FTBLib-5.4.7.0.jar" file="FTBLib-5.4.7.0.jar" md5="23053152aeb147aec8d47329525449a7" download="server" type="mods" />
+        <mod name="FTB Library" version="5.4.7.2" url="packs/ResonantRise/files/5.x/FTBLib-5.4.7.2.jar" file="FTBLib-5.4.7.2.jar" md5="ea749a3a3391d490ffcdf025e5de48d9" download="server" type="mods" />
 
-        <mod name="FTB Utilities" version="5.4.0.124" url="packs/ResonantRise/files/5.x/FTBUtilities-5.4.0.124.jar" file="FTBUtilities-5.4.0.124.jar" md5="bccfb63dcd1a3ea196a748f1138ab758" download="server" type="mods" />
+        <mod name="FTB Utilities" version="5.4.1.128" url="packs/ResonantRise/files/5.x/FTBUtilities-5.4.1.128.jar" file="FTBUtilities-5.4.1.128.jar" md5="2147c36f605fb91543ade275c3b12140" download="server" type="mods" />
 
         <mod name="GenDustry" version="1.6.5.8" url="packs/ResonantRise/files/5.x/gendustry-1.6.5.8-mc1.12.2.jar" file="gendustry-1.6.5.8-mc1.12.2.jar" md5="81b4720925043e1b4c198cabca9bd87f" download="server" type="mods" />
 
