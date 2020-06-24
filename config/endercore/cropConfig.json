@@ -49,6 +49,606 @@
       "seed": "mysticalagriculture:tier5_inferium_seeds",
       "block": "mysticalagriculture:tier5_inferium_crop",
       "optional": true
+    },
+    {
+      "seed": "mysticalagriculture:stone_seeds",
+      "block": "mysticalagriculture:stone_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:nature_seeds",
+      "block": "mysticalagriculture:nature_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:dirt_seeds",
+      "block": "mysticalagriculture:dirt_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:ice_seeds",
+      "block": "mysticalagriculture:ice_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:fire_seeds",
+      "block": "mysticalagriculture:fire_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:dye_seeds",
+      "block": "mysticalagriculture:dye_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:wood_seeds",
+      "block": "mysticalagriculture:wood_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:water_seeds",
+      "block": "mysticalagriculture:water_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:nether_seeds",
+      "block": "mysticalagriculture:nether_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:coal_seeds",
+      "block": "mysticalagriculture:coal_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:iron_seeds",
+      "block": "mysticalagriculture:iron_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:nether_quartz_seeds",
+      "block": "mysticalagriculture:nether_quartz_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:glowstone_seeds",
+      "block": "mysticalagriculture:glowstone_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:redstone_seeds",
+      "block": "mysticalagriculture:redstone_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:obsidian_seeds",
+      "block": "mysticalagriculture:obsidian_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:gold_seeds",
+      "block": "mysticalagriculture:gold_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:lapis_lazuli_seeds",
+      "block": "mysticalagriculture:lapis_lazuli_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:end_seeds",
+      "block": "mysticalagriculture:end_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:experience_seeds",
+      "block": "mysticalagriculture:experience_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:diamond_seeds",
+      "block": "mysticalagriculture:diamond_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:emerald_seeds",
+      "block": "mysticalagriculture:emerald_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:zombie_seeds",
+      "block": "mysticalagriculture:zombie_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:pig_seeds",
+      "block": "mysticalagriculture:pig_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:chicken_seeds",
+      "block": "mysticalagriculture:chicken_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:cow_seeds",
+      "block": "mysticalagriculture:cow_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:sheep_seeds",
+      "block": "mysticalagriculture:sheep_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:slime_seeds",
+      "block": "mysticalagriculture:slime_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:skeleton_seeds",
+      "block": "mysticalagriculture:skeleton_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:creeper_seeds",
+      "block": "mysticalagriculture:creeper_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:spider_seeds",
+      "block": "mysticalagriculture:spider_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:rabbit_seeds",
+      "block": "mysticalagriculture:rabbit_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:guardian_seeds",
+      "block": "mysticalagriculture:guardian_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:blaze_seeds",
+      "block": "mysticalagriculture:blaze_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:ghast_seeds",
+      "block": "mysticalagriculture:ghast_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:enderman_seeds",
+      "block": "mysticalagriculture:enderman_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:wither_skeleton_seeds",
+      "block": "mysticalagriculture:wither_skeleton_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:rubber_seeds",
+      "block": "mysticalagriculture:rubber_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:silicon_seeds",
+      "block": "mysticalagriculture:silicon_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:sulfur_seeds",
+      "block": "mysticalagriculture:sulfur_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:aluminum_seeds",
+      "block": "mysticalagriculture:aluminum_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:copper_seeds",
+      "block": "mysticalagriculture:copper_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:saltpeter_seeds",
+      "block": "mysticalagriculture:saltpeter_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:tin_seeds",
+      "block": "mysticalagriculture:tin_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:bronze_seeds",
+      "block": "mysticalagriculture:bronze_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:zinc_seeds",
+      "block": "mysticalagriculture:zinc_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:brass_seeds",
+      "block": "mysticalagriculture:brass_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:silver_seeds",
+      "block": "mysticalagriculture:silver_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:lead_seeds",
+      "block": "mysticalagriculture:lead_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:graphite_seeds",
+      "block": "mysticalagriculture:graphite_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:steel_seeds",
+      "block": "mysticalagriculture:steel_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:nickel_seeds",
+      "block": "mysticalagriculture:nickel_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:constantan_seeds",
+      "block": "mysticalagriculture:constantan_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:electrum_seeds",
+      "block": "mysticalagriculture:electrum_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:invar_seeds",
+      "block": "mysticalagriculture:invar_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:mithril_seeds",
+      "block": "mysticalagriculture:mithril_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:tungsten_seeds",
+      "block": "mysticalagriculture:tungsten_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:titanium_seeds",
+      "block": "mysticalagriculture:titanium_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:uranium_seeds",
+      "block": "mysticalagriculture:uranium_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:chrome_seeds",
+      "block": "mysticalagriculture:chrome_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:platinum_seeds",
+      "block": "mysticalagriculture:platinum_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:iridium_seeds",
+      "block": "mysticalagriculture:iridium_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:ruby_seeds",
+      "block": "mysticalagriculture:ruby_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:sapphire_seeds",
+      "block": "mysticalagriculture:sapphire_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:peridot_seeds",
+      "block": "mysticalagriculture:peridot_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:blizz_seeds",
+      "block": "mysticalagriculture:blizz_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:blitz_seeds",
+      "block": "mysticalagriculture:blitz_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:basalz_seeds",
+      "block": "mysticalagriculture:basalz_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:signalum_seeds",
+      "block": "mysticalagriculture:signalum_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:lumium_seeds",
+      "block": "mysticalagriculture:lumium_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:enderium_seeds",
+      "block": "mysticalagriculture:enderium_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:fluxed_electrum_seeds",
+      "block": "mysticalagriculture:fluxed_electrum_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:hop_graphite_seeds",
+      "block": "mysticalagriculture:hop_graphite_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:aluminum_brass_seeds",
+      "block": "mysticalagriculture:aluminum_brass_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:knightslime_seeds",
+      "block": "mysticalagriculture:knightslime_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:ardite_seeds",
+      "block": "mysticalagriculture:ardite_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:cobalt_seeds",
+      "block": "mysticalagriculture:cobalt_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:manyullyn_seeds",
+      "block": "mysticalagriculture:manyullyn_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:grains_of_infinity_seeds",
+      "block": "mysticalagriculture:grains_of_infinity_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:electrical_steel_seeds",
+      "block": "mysticalagriculture:electrical_steel_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:redstone_alloy_seeds",
+      "block": "mysticalagriculture:redstone_alloy_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:conductive_iron_seeds",
+      "block": "mysticalagriculture:conductive_iron_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:soularium_seeds",
+      "block": "mysticalagriculture:soularium_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:dark_steel_seeds",
+      "block": "mysticalagriculture:dark_steel_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:pulsating_iron_seeds",
+      "block": "mysticalagriculture:pulsating_iron_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:energetic_alloy_seeds",
+      "block": "mysticalagriculture:energetic_alloy_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:vibrant_alloy_seeds",
+      "block": "mysticalagriculture:vibrant_alloy_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:end_steel_seeds",
+      "block": "mysticalagriculture:end_steel_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:mystical_flower_seeds",
+      "block": "mysticalagriculture:mystical_flower_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:manasteel_seeds",
+      "block": "mysticalagriculture:manasteel_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:elementium_seeds",
+      "block": "mysticalagriculture:elementium_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:terrasteel_seeds",
+      "block": "mysticalagriculture:terrasteel_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:osmium_seeds",
+      "block": "mysticalagriculture:osmium_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:glowstone_ingot_seeds",
+      "block": "mysticalagriculture:glowstone_ingot_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:refined_obsidian_seeds",
+      "block": "mysticalagriculture:refined_obsidian_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:marble_seeds",
+      "block": "mysticalagriculture:marble_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:limestone_seeds",
+      "block": "mysticalagriculture:limestone_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:basalt_seeds",
+      "block": "mysticalagriculture:basalt_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:apatite_seeds",
+      "block": "mysticalagriculture:apatite_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:electrotine_seeds",
+      "block": "mysticalagriculture:electrotine_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:alumite_seeds",
+      "block": "mysticalagriculture:alumite_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:steeleaf_seeds",
+      "block": "mysticalagriculture:steeleaf_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:ironwood_seeds",
+      "block": "mysticalagriculture:ironwood_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:knightmetal_seeds",
+      "block": "mysticalagriculture:knightmetal_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:fiery_ingot_seeds",
+      "block": "mysticalagriculture:fiery_ingot_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:black_quartz_seeds",
+      "block": "mysticalagriculture:black_quartz_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:menril_seeds",
+      "block": "mysticalagriculture:menril_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:aquamarine_seeds",
+      "block": "mysticalagriculture:aquamarine_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:starmetal_seeds",
+      "block": "mysticalagriculture:starmetal_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:rock_crystal_seeds",
+      "block": "mysticalagriculture:rock_crystal_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:dilithium_seeds",
+      "block": "mysticalagriculture:dilithium_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:tritanium_seeds",
+      "block": "mysticalagriculture:tritanium_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:draconium_seeds",
+      "block": "mysticalagriculture:draconium_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:yellorium_seeds",
+      "block": "mysticalagriculture:yellorium_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:sky_stone_seeds",
+      "block": "mysticalagriculture:sky_stone_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:certus_quartz_seeds",
+      "block": "mysticalagriculture:certus_quartz_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagriculture:fluix_seeds",
+      "block": "mysticalagriculture:fluix_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagradditions:tier6_inferium_seeds",
+      "block": "mysticalagradditions:tier6_inferium_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagradditions:awakened_draconium_seeds",
+      "block": "mysticalagradditions:awakened_draconium_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagradditions:dragon_egg_seeds",
+      "block": "mysticalagradditions:dragon_egg_crop",
+      "optional": true
+    },
+	{
+      "seed": "mysticalagradditions:nether_star_seeds",
+      "block": "mysticalagradditions:nether_star_crop",
+      "optional": true
     }
   ]
 }
