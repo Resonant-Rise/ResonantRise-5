@@ -39,8 +39,6 @@ tconstruct:magnetic
 tconstruct:momentum
 tconstruct:dot
 tconstruct:splinter
-quark:curse
-quark:danger_sight
 bloodmagic:boost
 bloodmagic:whirlwind
 bloodmagic:planar_binding

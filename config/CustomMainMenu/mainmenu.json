@@ -61,7 +61,7 @@
                 "gui" : "singleplayer"
             }
         },
-
+        
 		"multiplayer":
         {
             "text" : "menu.multiplayer",
@@ -205,8 +205,8 @@
             "alignment" : "bottom_left"
         }
     },
-
-     "other":
+    
+    "other":
     {
         "splash-text":
         {
