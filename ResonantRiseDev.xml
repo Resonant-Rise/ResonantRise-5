@@ -418,6 +418,8 @@
 
         <mod name="ProjectRed Exploration" version="4.9.4.120" url="packs/ResonantRise/files/5.x/ProjectRed-1.12.2-4.9.4.120-world.jar" file="ProjectRed-1.12.2-4.9.4.120-world.jar" md5="2ac24154b87ff4fbc97e5330c2ca11f7" download="server" type="mods" />
 
+        <mod name="Project Intelligence" version="1.12.2-1.0.9.28" url="packs/ResonantRise/files/5.x/ProjectIntelligence-1.12.2-1.0.9.28-universal.jar" file="ProjectIntelligence-1.12.2-1.0.9.28-universal.jar" md5="96657f132afd609f2a92cf4994698e64" download="server" type="mods" />
+
         <mod name="Psi" version="r1.1-78" url="packs/ResonantRise/files/5.x/Psi-r1.1-78.jar" file="Psi-r1.1-78.jar" md5="279dbc8926ecd500b83a0a84a5243884" download="server" type="mods" />
 
         <mod name="QuantumStorage" version="4.7.0" url="packs/ResonantRise/files/5.x/QuantumStorage-1.12-4.7.0.jar" file="QuantumStorage-1.12-4.7.0.jar" md5="4da452dfc28431b56e76e9ab2431df2c" download="server" type="mods" />
