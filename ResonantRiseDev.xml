@@ -462,8 +462,6 @@
 
         <mod name="Tesla Core Lib" version="1.12.2-1.0.17" url="packs/ResonantRise/files/5.x/tesla-core-lib-1.12.2-1.0.17.jar" file="tesla-core-lib-1.12.2-1.0.17.jar" md5="6c76ff8a9251852d00d9a648e72ad25c" download="server" type="mods" />
 
-        <mod name="TexFix" version="TexFix V-1.12-4.0.jar" url="packs/ResonantRise/files/5.x/TexFixV-1.12-4.0.jar" file="TexFixV-1.12-4.0.jar" md5="241a28a767464fa15f9bd642c2d9f673" download="server" type="mods" />
-
         <mod name="The Lost Quiver" version="1.0" url="packs/ResonantRise/files/5.x/lostquiver-1.0.jar" file="lostquiver-1.0.jar" md5="3e9b0050686e403a6dd5d97fe97f9d8d" download="server" type="mods" />
 
         <mod name="The One Probe" version="1.12-1.4.28" url="packs/ResonantRise/files/5.x/theoneprobe-1.12-1.4.28.jar" file="theoneprobe-1.12-1.4.28.jar" md5="63849a13a822b3b56308245eb8074a7e" download="server" type="mods" />
