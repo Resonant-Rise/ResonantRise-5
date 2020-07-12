@@ -326,7 +326,7 @@
         
         <mod name="JEI Bees" version="0.9.0.5" url="packs/ResonantRise/files/5.x/jeibees-0.9.0.5-mc1.12.2.jar" file="jeibees-0.9.0.5-mc1.12.2.jar" md5="a4fef0a3bb6d401eb236b3fe3e1a4846" download="server" type="mods" />
 
-        <mod name="Just Enough Energistics" version="1.12.2-1.0.7" url="packs/ResonantRise/files/5.x/JustEnoughEnergistics-1.12.2-1.0.7.jar" file="JustEnoughEnergistics-1.12.2-1.0.7.jar" md5="d4e3b8bad7e42e1d0baed63dd32538af" download="server" type="mods" />
+        <mod name="Just Enough Energistics" version="1.12.2-1.0.8" url="packs/ResonantRise/files/5.x/JustEnoughEnergistics-1.12.2-1.0.8.jar" file="JustEnoughEnergistics-1.12.2-1.0.8.jar" md5="be626dce632db45ab61512e5a6d9cdd7" download="server" type="mods" />
 
         <mod name="Just Enough Items" version="4.15.0.293" url="packs/ResonantRise/files/5.x/jei_1.12.2-4.15.0.293.jar" file="jei_1.12.2-4.15.0.293.jar" md5="32541b3176b0d4b24af71836a52bc070" download="server" type="mods" />
 
